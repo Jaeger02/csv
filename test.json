@@ -1,0 +1,5816 @@
+[
+  {
+    "Fecha": "31/12/2019",
+    "Negativos": 0,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "01/01/2020",
+    "Negativos": 25,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "02/01/2020",
+    "Negativos": 72,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "03/01/2020",
+    "Negativos": 89,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "04/01/2020",
+    "Negativos": 45,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "05/01/2020",
+    "Negativos": 81,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "06/01/2020",
+    "Negativos": 166,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "07/01/2020",
+    "Negativos": 184,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "08/01/2020",
+    "Negativos": 169,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "09/01/2020",
+    "Negativos": 191,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "10/01/2020",
+    "Negativos": 147,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "11/01/2020",
+    "Negativos": 45,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "12/01/2020",
+    "Negativos": 129,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "13/01/2020",
+    "Negativos": 225,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "14/01/2020",
+    "Negativos": 239,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "15/01/2020",
+    "Negativos": 266,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "16/01/2020",
+    "Negativos": 230,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "17/01/2020",
+    "Negativos": 185,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "18/01/2020",
+    "Negativos": 69,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "19/01/2020",
+    "Negativos": 121,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "20/01/2020",
+    "Negativos": 292,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "21/01/2020",
+    "Negativos": 274,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "22/01/2020",
+    "Negativos": 289,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "23/01/2020",
+    "Negativos": 264,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "24/01/2020",
+    "Negativos": 209,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "25/01/2020",
+    "Negativos": 105,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "26/01/2020",
+    "Negativos": 158,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "27/01/2020",
+    "Negativos": 278,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "28/01/2020",
+    "Negativos": 246,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "29/01/2020",
+    "Negativos": 210,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "30/01/2020",
+    "Negativos": 231,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "31/01/2020",
+    "Negativos": 152,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "01/02/2020",
+    "Negativos": 66,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "02/02/2020",
+    "Negativos": 103,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "03/02/2020",
+    "Negativos": 140,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "04/02/2020",
+    "Negativos": 254,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "05/02/2020",
+    "Negativos": 233,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "06/02/2020",
+    "Negativos": 231,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "07/02/2020",
+    "Negativos": 171,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "08/02/2020",
+    "Negativos": 68,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "09/02/2020",
+    "Negativos": 130,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "10/02/2020",
+    "Negativos": 329,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "11/02/2020",
+    "Negativos": 246,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "12/02/2020",
+    "Negativos": 262,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "13/02/2020",
+    "Negativos": 192,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "14/02/2020",
+    "Negativos": 163,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "15/02/2020",
+    "Negativos": 76,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "16/02/2020",
+    "Negativos": 103,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "17/02/2020",
+    "Negativos": 247,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "18/02/2020",
+    "Negativos": 255,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "19/02/2020",
+    "Negativos": 185,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "20/02/2020",
+    "Negativos": 177,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "21/02/2020",
+    "Negativos": 131,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "22/02/2020",
+    "Negativos": 53,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "23/02/2020",
+    "Negativos": 111,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "24/02/2020",
+    "Negativos": 211,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "25/02/2020",
+    "Negativos": 266,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "26/02/2020",
+    "Negativos": 204,
+    "Confirmados": 0,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "27/02/2020",
+    "Negativos": 191,
+    "Confirmados": 4,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "28/02/2020",
+    "Negativos": 214,
+    "Confirmados": 2,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "29/02/2020",
+    "Negativos": 82,
+    "Confirmados": 2,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "01/03/2020",
+    "Negativos": 143,
+    "Confirmados": 2,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "02/03/2020",
+    "Negativos": 274,
+    "Confirmados": 5,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "03/03/2020",
+    "Negativos": 276,
+    "Confirmados": 9,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "04/03/2020",
+    "Negativos": 228,
+    "Confirmados": 10,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "05/03/2020",
+    "Negativos": 216,
+    "Confirmados": 11,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "06/03/2020",
+    "Negativos": 166,
+    "Confirmados": 6,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "07/03/2020",
+    "Negativos": 71,
+    "Confirmados": 7,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "08/03/2020",
+    "Negativos": 105,
+    "Confirmados": 8,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "09/03/2020",
+    "Negativos": 236,
+    "Confirmados": 5,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "10/03/2020",
+    "Negativos": 238,
+    "Confirmados": 17,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "11/03/2020",
+    "Negativos": 279,
+    "Confirmados": 39,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "12/03/2020",
+    "Negativos": 342,
+    "Confirmados": 41,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "13/03/2020",
+    "Negativos": 372,
+    "Confirmados": 66,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "14/03/2020",
+    "Negativos": 170,
+    "Confirmados": 52,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "15/03/2020",
+    "Negativos": 208,
+    "Confirmados": 37,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "16/03/2020",
+    "Negativos": 289,
+    "Confirmados": 77,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "17/03/2020",
+    "Negativos": 615,
+    "Confirmados": 104,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "18/03/2020",
+    "Negativos": 670,
+    "Confirmados": 116,
+    "Defunciones": 3
+  },
+  {
+    "Fecha": "19/03/2020",
+    "Negativos": 689,
+    "Confirmados": 151,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "20/03/2020",
+    "Negativos": 626,
+    "Confirmados": 132,
+    "Defunciones": 1
+  },
+  {
+    "Fecha": "21/03/2020",
+    "Negativos": 410,
+    "Confirmados": 85,
+    "Defunciones": 0
+  },
+  {
+    "Fecha": "22/03/2020",
+    "Negativos": 345,
+    "Confirmados": 70,
+    "Defunciones": 2
+  },
+  {
+    "Fecha": "23/03/2020",
+    "Negativos": 919,
+    "Confirmados": 168,
+    "Defunciones": 1
+  },
+  {
+    "Fecha": "24/03/2020",
+    "Negativos": 1151,
+    "Confirmados": 220,
+    "Defunciones": 3
+  },
+  {
+    "Fecha": "25/03/2020",
+    "Negativos": 1239,
+    "Confirmados": 185,
+    "Defunciones": 2
+  },
+  {
+    "Fecha": "26/03/2020",
+    "Negativos": 1161,
+    "Confirmados": 224,
+    "Defunciones": 8
+  },
+  {
+    "Fecha": "27/03/2020",
+    "Negativos": 1339,
+    "Confirmados": 262,
+    "Defunciones": 8
+  },
+  {
+    "Fecha": "28/03/2020",
+    "Negativos": 608,
+    "Confirmados": 191,
+    "Defunciones": 15
+  },
+  {
+    "Fecha": "29/03/2020",
+    "Negativos": 608,
+    "Confirmados": 166,
+    "Defunciones": 9
+  },
+  {
+    "Fecha": "30/03/2020",
+    "Negativos": 1334,
+    "Confirmados": 345,
+    "Defunciones": 14
+  },
+  {
+    "Fecha": "31/03/2020",
+    "Negativos": 1205,
+    "Confirmados": 311,
+    "Defunciones": 26
+  },
+  {
+    "Fecha": "01/04/2020",
+    "Negativos": 1255,
+    "Confirmados": 382,
+    "Defunciones": 22
+  },
+  {
+    "Fecha": "02/04/2020",
+    "Negativos": 1380,
+    "Confirmados": 347,
+    "Defunciones": 26
+  },
+  {
+    "Fecha": "03/04/2020",
+    "Negativos": 1385,
+    "Confirmados": 392,
+    "Defunciones": 34
+  },
+  {
+    "Fecha": "04/04/2020",
+    "Negativos": 860,
+    "Confirmados": 250,
+    "Defunciones": 40
+  },
+  {
+    "Fecha": "05/04/2020",
+    "Negativos": 590,
+    "Confirmados": 259,
+    "Defunciones": 33
+  },
+  {
+    "Fecha": "06/04/2020",
+    "Negativos": 1459,
+    "Confirmados": 631,
+    "Defunciones": 58
+  },
+  {
+    "Fecha": "07/04/2020",
+    "Negativos": 1518,
+    "Confirmados": 515,
+    "Defunciones": 62
+  },
+  {
+    "Fecha": "08/04/2020",
+    "Negativos": 1661,
+    "Confirmados": 581,
+    "Defunciones": 49
+  },
+  {
+    "Fecha": "09/04/2020",
+    "Negativos": 1233,
+    "Confirmados": 483,
+    "Defunciones": 62
+  },
+  {
+    "Fecha": "10/04/2020",
+    "Negativos": 1413,
+    "Confirmados": 572,
+    "Defunciones": 78
+  },
+  {
+    "Fecha": "11/04/2020",
+    "Negativos": 974,
+    "Confirmados": 464,
+    "Defunciones": 81
+  },
+  {
+    "Fecha": "12/04/2020",
+    "Negativos": 758,
+    "Confirmados": 479,
+    "Defunciones": 88
+  },
+  {
+    "Fecha": "13/04/2020",
+    "Negativos": 1921,
+    "Confirmados": 953,
+    "Defunciones": 102
+  },
+  {
+    "Fecha": "14/04/2020",
+    "Negativos": 2027,
+    "Confirmados": 936,
+    "Defunciones": 114
+  },
+  {
+    "Fecha": "15/04/2020",
+    "Negativos": 1899,
+    "Confirmados": 985,
+    "Defunciones": 115
+  },
+  {
+    "Fecha": "16/04/2020",
+    "Negativos": 1777,
+    "Confirmados": 996,
+    "Defunciones": 107
+  },
+  {
+    "Fecha": "17/04/2020",
+    "Negativos": 1973,
+    "Confirmados": 1145,
+    "Defunciones": 142
+  },
+  {
+    "Fecha": "18/04/2020",
+    "Negativos": 892,
+    "Confirmados": 815,
+    "Defunciones": 137
+  },
+  {
+    "Fecha": "19/04/2020",
+    "Negativos": 802,
+    "Confirmados": 794,
+    "Defunciones": 181
+  },
+  {
+    "Fecha": "20/04/2020",
+    "Negativos": 2203,
+    "Confirmados": 1521,
+    "Defunciones": 211
+  },
+  {
+    "Fecha": "21/04/2020",
+    "Negativos": 1962,
+    "Confirmados": 1471,
+    "Defunciones": 215
+  },
+  {
+    "Fecha": "22/04/2020",
+    "Negativos": 1914,
+    "Confirmados": 1423,
+    "Defunciones": 216
+  },
+  {
+    "Fecha": "23/04/2020",
+    "Negativos": 2147,
+    "Confirmados": 1506,
+    "Defunciones": 230
+  },
+  {
+    "Fecha": "24/04/2020",
+    "Negativos": 2361,
+    "Confirmados": 1734,
+    "Defunciones": 263
+  },
+  {
+    "Fecha": "25/04/2020",
+    "Negativos": 1187,
+    "Confirmados": 1164,
+    "Defunciones": 290
+  },
+  {
+    "Fecha": "26/04/2020",
+    "Negativos": 942,
+    "Confirmados": 1117,
+    "Defunciones": 310
+  },
+  {
+    "Fecha": "27/04/2020",
+    "Negativos": 2521,
+    "Confirmados": 1942,
+    "Defunciones": 285
+  },
+  {
+    "Fecha": "28/04/2020",
+    "Negativos": 2600,
+    "Confirmados": 1961,
+    "Defunciones": 326
+  },
+  {
+    "Fecha": "29/04/2020",
+    "Negativos": 2935,
+    "Confirmados": 1948,
+    "Defunciones": 386
+  },
+  {
+    "Fecha": "30/04/2020",
+    "Negativos": 3321,
+    "Confirmados": 1884,
+    "Defunciones": 354
+  },
+  {
+    "Fecha": "01/05/2020",
+    "Negativos": 1717,
+    "Confirmados": 1555,
+    "Defunciones": 410
+  },
+  {
+    "Fecha": "02/05/2020",
+    "Negativos": 1465,
+    "Confirmados": 1493,
+    "Defunciones": 358
+  },
+  {
+    "Fecha": "03/05/2020",
+    "Negativos": 1522,
+    "Confirmados": 1377,
+    "Defunciones": 369
+  },
+  {
+    "Fecha": "04/05/2020",
+    "Negativos": 3401,
+    "Confirmados": 2642,
+    "Defunciones": 461
+  },
+  {
+    "Fecha": "05/05/2020",
+    "Negativos": 2995,
+    "Confirmados": 2234,
+    "Defunciones": 449
+  },
+  {
+    "Fecha": "06/05/2020",
+    "Negativos": 3416,
+    "Confirmados": 2389,
+    "Defunciones": 414
+  },
+  {
+    "Fecha": "07/05/2020",
+    "Negativos": 3423,
+    "Confirmados": 2531,
+    "Defunciones": 403
+  },
+  {
+    "Fecha": "08/05/2020",
+    "Negativos": 3750,
+    "Confirmados": 2530,
+    "Defunciones": 439
+  },
+  {
+    "Fecha": "09/05/2020",
+    "Negativos": 1965,
+    "Confirmados": 1657,
+    "Defunciones": 418
+  },
+  {
+    "Fecha": "10/05/2020",
+    "Negativos": 1348,
+    "Confirmados": 1552,
+    "Defunciones": 457
+  },
+  {
+    "Fecha": "11/05/2020",
+    "Negativos": 3913,
+    "Confirmados": 3118,
+    "Defunciones": 460
+  },
+  {
+    "Fecha": "12/05/2020",
+    "Negativos": 4103,
+    "Confirmados": 3070,
+    "Defunciones": 487
+  },
+  {
+    "Fecha": "13/05/2020",
+    "Negativos": 3834,
+    "Confirmados": 3230,
+    "Defunciones": 490
+  },
+  {
+    "Fecha": "14/05/2020",
+    "Negativos": 4151,
+    "Confirmados": 3217,
+    "Defunciones": 546
+  },
+  {
+    "Fecha": "15/05/2020",
+    "Negativos": 4280,
+    "Confirmados": 3694,
+    "Defunciones": 556
+  },
+  {
+    "Fecha": "16/05/2020",
+    "Negativos": 2052,
+    "Confirmados": 2270,
+    "Defunciones": 534
+  },
+  {
+    "Fecha": "17/05/2020",
+    "Negativos": 1263,
+    "Confirmados": 1739,
+    "Defunciones": 587
+  },
+  {
+    "Fecha": "18/05/2020",
+    "Negativos": 4482,
+    "Confirmados": 4181,
+    "Defunciones": 591
+  },
+  {
+    "Fecha": "19/05/2020",
+    "Negativos": 4144,
+    "Confirmados": 3710,
+    "Defunciones": 579
+  },
+  {
+    "Fecha": "20/05/2020",
+    "Negativos": 4426,
+    "Confirmados": 4052,
+    "Defunciones": 571
+  },
+  {
+    "Fecha": "21/05/2020",
+    "Negativos": 4289,
+    "Confirmados": 4103,
+    "Defunciones": 572
+  },
+  {
+    "Fecha": "22/05/2020",
+    "Negativos": 4591,
+    "Confirmados": 4132,
+    "Defunciones": 560
+  },
+  {
+    "Fecha": "23/05/2020",
+    "Negativos": 2172,
+    "Confirmados": 2416,
+    "Defunciones": 539
+  },
+  {
+    "Fecha": "24/05/2020",
+    "Negativos": 1723,
+    "Confirmados": 2002,
+    "Defunciones": 608
+  },
+  {
+    "Fecha": "25/05/2020",
+    "Negativos": 4871,
+    "Confirmados": 4788,
+    "Defunciones": 628
+  },
+  {
+    "Fecha": "26/05/2020",
+    "Negativos": 4794,
+    "Confirmados": 4423,
+    "Defunciones": 611
+  },
+  {
+    "Fecha": "27/05/2020",
+    "Negativos": 4931,
+    "Confirmados": 4566,
+    "Defunciones": 594
+  },
+  {
+    "Fecha": "28/05/2020",
+    "Negativos": 4728,
+    "Confirmados": 4310,
+    "Defunciones": 623
+  },
+  {
+    "Fecha": "29/05/2020",
+    "Negativos": 4922,
+    "Confirmados": 4468,
+    "Defunciones": 575
+  },
+  {
+    "Fecha": "30/05/2020",
+    "Negativos": 2573,
+    "Confirmados": 2822,
+    "Defunciones": 609
+  },
+  {
+    "Fecha": "31/05/2020",
+    "Negativos": 1755,
+    "Confirmados": 2199,
+    "Defunciones": 634
+  },
+  {
+    "Fecha": "01/06/2020",
+    "Negativos": 5246,
+    "Confirmados": 5453,
+    "Defunciones": 691
+  },
+  {
+    "Fecha": "02/06/2020",
+    "Negativos": 5118,
+    "Confirmados": 4837,
+    "Defunciones": 649
+  },
+  {
+    "Fecha": "03/06/2020",
+    "Negativos": 5384,
+    "Confirmados": 5073,
+    "Defunciones": 676
+  },
+  {
+    "Fecha": "04/06/2020",
+    "Negativos": 5276,
+    "Confirmados": 5013,
+    "Defunciones": 656
+  },
+  {
+    "Fecha": "05/06/2020",
+    "Negativos": 5610,
+    "Confirmados": 5159,
+    "Defunciones": 597
+  },
+  {
+    "Fecha": "06/06/2020",
+    "Negativos": 2614,
+    "Confirmados": 3149,
+    "Defunciones": 667
+  },
+  {
+    "Fecha": "07/06/2020",
+    "Negativos": 1824,
+    "Confirmados": 2468,
+    "Defunciones": 688
+  },
+  {
+    "Fecha": "08/06/2020",
+    "Negativos": 5656,
+    "Confirmados": 6291,
+    "Defunciones": 738
+  },
+  {
+    "Fecha": "09/06/2020",
+    "Negativos": 5974,
+    "Confirmados": 5873,
+    "Defunciones": 691
+  },
+  {
+    "Fecha": "10/06/2020",
+    "Negativos": 6037,
+    "Confirmados": 5826,
+    "Defunciones": 706
+  },
+  {
+    "Fecha": "11/06/2020",
+    "Negativos": 5989,
+    "Confirmados": 5471,
+    "Defunciones": 670
+  },
+  {
+    "Fecha": "12/06/2020",
+    "Negativos": 6247,
+    "Confirmados": 5744,
+    "Defunciones": 731
+  },
+  {
+    "Fecha": "13/06/2020",
+    "Negativos": 2620,
+    "Confirmados": 3231,
+    "Defunciones": 696
+  },
+  {
+    "Fecha": "14/06/2020",
+    "Negativos": 2010,
+    "Confirmados": 2702,
+    "Defunciones": 719
+  },
+  {
+    "Fecha": "15/06/2020",
+    "Negativos": 6675,
+    "Confirmados": 6690,
+    "Defunciones": 714
+  },
+  {
+    "Fecha": "16/06/2020",
+    "Negativos": 6346,
+    "Confirmados": 6476,
+    "Defunciones": 775
+  },
+  {
+    "Fecha": "17/06/2020",
+    "Negativos": 6063,
+    "Confirmados": 6180,
+    "Defunciones": 752
+  },
+  {
+    "Fecha": "18/06/2020",
+    "Negativos": 5873,
+    "Confirmados": 6146,
+    "Defunciones": 679
+  },
+  {
+    "Fecha": "19/06/2020",
+    "Negativos": 5831,
+    "Confirmados": 6162,
+    "Defunciones": 651
+  },
+  {
+    "Fecha": "20/06/2020",
+    "Negativos": 2771,
+    "Confirmados": 3736,
+    "Defunciones": 618
+  },
+  {
+    "Fecha": "21/06/2020",
+    "Negativos": 1652,
+    "Confirmados": 2610,
+    "Defunciones": 692
+  },
+  {
+    "Fecha": "22/06/2020",
+    "Negativos": 5680,
+    "Confirmados": 7014,
+    "Defunciones": 669
+  },
+  {
+    "Fecha": "23/06/2020",
+    "Negativos": 6336,
+    "Confirmados": 6617,
+    "Defunciones": 643
+  },
+  {
+    "Fecha": "24/06/2020",
+    "Negativos": 5947,
+    "Confirmados": 6369,
+    "Defunciones": 649
+  },
+  {
+    "Fecha": "25/06/2020",
+    "Negativos": 6382,
+    "Confirmados": 6342,
+    "Defunciones": 627
+  },
+  {
+    "Fecha": "26/06/2020",
+    "Negativos": 6567,
+    "Confirmados": 6618,
+    "Defunciones": 671
+  },
+  {
+    "Fecha": "27/06/2020",
+    "Negativos": 3094,
+    "Confirmados": 3779,
+    "Defunciones": 699
+  },
+  {
+    "Fecha": "28/06/2020",
+    "Negativos": 2144,
+    "Confirmados": 3065,
+    "Defunciones": 691
+  },
+  {
+    "Fecha": "29/06/2020",
+    "Negativos": 7222,
+    "Confirmados": 7563,
+    "Defunciones": 760
+  },
+  {
+    "Fecha": "30/06/2020",
+    "Negativos": 6871,
+    "Confirmados": 7229,
+    "Defunciones": 719
+  },
+  {
+    "Fecha": "01/07/2020",
+    "Negativos": 7203,
+    "Confirmados": 7696,
+    "Defunciones": 693
+  },
+  {
+    "Fecha": "02/07/2020",
+    "Negativos": 6593,
+    "Confirmados": 7100,
+    "Defunciones": 703
+  },
+  {
+    "Fecha": "03/07/2020",
+    "Negativos": 6975,
+    "Confirmados": 7121,
+    "Defunciones": 706
+  },
+  {
+    "Fecha": "04/07/2020",
+    "Negativos": 2837,
+    "Confirmados": 3760,
+    "Defunciones": 738
+  },
+  {
+    "Fecha": "05/07/2020",
+    "Negativos": 2209,
+    "Confirmados": 3103,
+    "Defunciones": 753
+  },
+  {
+    "Fecha": "06/07/2020",
+    "Negativos": 7517,
+    "Confirmados": 7883,
+    "Defunciones": 827
+  },
+  {
+    "Fecha": "07/07/2020",
+    "Negativos": 7404,
+    "Confirmados": 7927,
+    "Defunciones": 824
+  },
+  {
+    "Fecha": "08/07/2020",
+    "Negativos": 7246,
+    "Confirmados": 7453,
+    "Defunciones": 740
+  },
+  {
+    "Fecha": "09/07/2020",
+    "Negativos": 6891,
+    "Confirmados": 7059,
+    "Defunciones": 764
+  },
+  {
+    "Fecha": "10/07/2020",
+    "Negativos": 6924,
+    "Confirmados": 7221,
+    "Defunciones": 728
+  },
+  {
+    "Fecha": "11/07/2020",
+    "Negativos": 3053,
+    "Confirmados": 3927,
+    "Defunciones": 742
+  },
+  {
+    "Fecha": "12/07/2020",
+    "Negativos": 2098,
+    "Confirmados": 3278,
+    "Defunciones": 759
+  },
+  {
+    "Fecha": "13/07/2020",
+    "Negativos": 7642,
+    "Confirmados": 8927,
+    "Defunciones": 836
+  },
+  {
+    "Fecha": "14/07/2020",
+    "Negativos": 7366,
+    "Confirmados": 8463,
+    "Defunciones": 808
+  },
+  {
+    "Fecha": "15/07/2020",
+    "Negativos": 8093,
+    "Confirmados": 8864,
+    "Defunciones": 804
+  },
+  {
+    "Fecha": "16/07/2020",
+    "Negativos": 7936,
+    "Confirmados": 8266,
+    "Defunciones": 815
+  },
+  {
+    "Fecha": "17/07/2020",
+    "Negativos": 8244,
+    "Confirmados": 8050,
+    "Defunciones": 770
+  },
+  {
+    "Fecha": "18/07/2020",
+    "Negativos": 3637,
+    "Confirmados": 4453,
+    "Defunciones": 747
+  },
+  {
+    "Fecha": "19/07/2020",
+    "Negativos": 2039,
+    "Confirmados": 3501,
+    "Defunciones": 803
+  },
+  {
+    "Fecha": "20/07/2020",
+    "Negativos": 8241,
+    "Confirmados": 9133,
+    "Defunciones": 804
+  },
+  {
+    "Fecha": "21/07/2020",
+    "Negativos": 7905,
+    "Confirmados": 8660,
+    "Defunciones": 840
+  },
+  {
+    "Fecha": "22/07/2020",
+    "Negativos": 8083,
+    "Confirmados": 8304,
+    "Defunciones": 752
+  },
+  {
+    "Fecha": "23/07/2020",
+    "Negativos": 7711,
+    "Confirmados": 8097,
+    "Defunciones": 785
+  },
+  {
+    "Fecha": "24/07/2020",
+    "Negativos": 7653,
+    "Confirmados": 8029,
+    "Defunciones": 733
+  },
+  {
+    "Fecha": "25/07/2020",
+    "Negativos": 3278,
+    "Confirmados": 4211,
+    "Defunciones": 779
+  },
+  {
+    "Fecha": "26/07/2020",
+    "Negativos": 2170,
+    "Confirmados": 3070,
+    "Defunciones": 785
+  },
+  {
+    "Fecha": "27/07/2020",
+    "Negativos": 7600,
+    "Confirmados": 8527,
+    "Defunciones": 809
+  },
+  {
+    "Fecha": "28/07/2020",
+    "Negativos": 7963,
+    "Confirmados": 8202,
+    "Defunciones": 778
+  },
+  {
+    "Fecha": "29/07/2020",
+    "Negativos": 7624,
+    "Confirmados": 7674,
+    "Defunciones": 685
+  },
+  {
+    "Fecha": "30/07/2020",
+    "Negativos": 7690,
+    "Confirmados": 7576,
+    "Defunciones": 748
+  },
+  {
+    "Fecha": "31/07/2020",
+    "Negativos": 7558,
+    "Confirmados": 6739,
+    "Defunciones": 674
+  },
+  {
+    "Fecha": "01/08/2020",
+    "Negativos": 3542,
+    "Confirmados": 3834,
+    "Defunciones": 735
+  },
+  {
+    "Fecha": "02/08/2020",
+    "Negativos": 1993,
+    "Confirmados": 2563,
+    "Defunciones": 697
+  },
+  {
+    "Fecha": "03/08/2020",
+    "Negativos": 7364,
+    "Confirmados": 7537,
+    "Defunciones": 759
+  },
+  {
+    "Fecha": "04/08/2020",
+    "Negativos": 7972,
+    "Confirmados": 7393,
+    "Defunciones": 777
+  },
+  {
+    "Fecha": "05/08/2020",
+    "Negativos": 7832,
+    "Confirmados": 7179,
+    "Defunciones": 720
+  },
+  {
+    "Fecha": "06/08/2020",
+    "Negativos": 7594,
+    "Confirmados": 6678,
+    "Defunciones": 694
+  },
+  {
+    "Fecha": "07/08/2020",
+    "Negativos": 7753,
+    "Confirmados": 6630,
+    "Defunciones": 645
+  },
+  {
+    "Fecha": "08/08/2020",
+    "Negativos": 3272,
+    "Confirmados": 3682,
+    "Defunciones": 682
+  },
+  {
+    "Fecha": "09/08/2020",
+    "Negativos": 1945,
+    "Confirmados": 2442,
+    "Defunciones": 652
+  },
+  {
+    "Fecha": "10/08/2020",
+    "Negativos": 8032,
+    "Confirmados": 7271,
+    "Defunciones": 676
+  },
+  {
+    "Fecha": "11/08/2020",
+    "Negativos": 8128,
+    "Confirmados": 6881,
+    "Defunciones": 700
+  },
+  {
+    "Fecha": "12/08/2020",
+    "Negativos": 7945,
+    "Confirmados": 6501,
+    "Defunciones": 618
+  },
+  {
+    "Fecha": "13/08/2020",
+    "Negativos": 7976,
+    "Confirmados": 6456,
+    "Defunciones": 614
+  },
+  {
+    "Fecha": "14/08/2020",
+    "Negativos": 7937,
+    "Confirmados": 6219,
+    "Defunciones": 580
+  },
+  {
+    "Fecha": "15/08/2020",
+    "Negativos": 3367,
+    "Confirmados": 3255,
+    "Defunciones": 586
+  },
+  {
+    "Fecha": "16/08/2020",
+    "Negativos": 2000,
+    "Confirmados": 2340,
+    "Defunciones": 576
+  },
+  {
+    "Fecha": "17/08/2020",
+    "Negativos": 7817,
+    "Confirmados": 6903,
+    "Defunciones": 627
+  },
+  {
+    "Fecha": "18/08/2020",
+    "Negativos": 8330,
+    "Confirmados": 6732,
+    "Defunciones": 567
+  },
+  {
+    "Fecha": "19/08/2020",
+    "Negativos": 8070,
+    "Confirmados": 6299,
+    "Defunciones": 585
+  },
+  {
+    "Fecha": "20/08/2020",
+    "Negativos": 7160,
+    "Confirmados": 6031,
+    "Defunciones": 565
+  },
+  {
+    "Fecha": "21/08/2020",
+    "Negativos": 8039,
+    "Confirmados": 6307,
+    "Defunciones": 559
+  },
+  {
+    "Fecha": "22/08/2020",
+    "Negativos": 3513,
+    "Confirmados": 3163,
+    "Defunciones": 573
+  },
+  {
+    "Fecha": "23/08/2020",
+    "Negativos": 1951,
+    "Confirmados": 2356,
+    "Defunciones": 525
+  },
+  {
+    "Fecha": "24/08/2020",
+    "Negativos": 7868,
+    "Confirmados": 7099,
+    "Defunciones": 541
+  },
+  {
+    "Fecha": "25/08/2020",
+    "Negativos": 8320,
+    "Confirmados": 6697,
+    "Defunciones": 545
+  },
+  {
+    "Fecha": "26/08/2020",
+    "Negativos": 9563,
+    "Confirmados": 7037,
+    "Defunciones": 521
+  },
+  {
+    "Fecha": "27/08/2020",
+    "Negativos": 9449,
+    "Confirmados": 6541,
+    "Defunciones": 494
+  },
+  {
+    "Fecha": "28/08/2020",
+    "Negativos": 9385,
+    "Confirmados": 6337,
+    "Defunciones": 532
+  },
+  {
+    "Fecha": "29/08/2020",
+    "Negativos": 4447,
+    "Confirmados": 3167,
+    "Defunciones": 512
+  },
+  {
+    "Fecha": "30/08/2020",
+    "Negativos": 2159,
+    "Confirmados": 2245,
+    "Defunciones": 527
+  },
+  {
+    "Fecha": "31/08/2020",
+    "Negativos": 8423,
+    "Confirmados": 7044,
+    "Defunciones": 548
+  },
+  {
+    "Fecha": "01/09/2020",
+    "Negativos": 9285,
+    "Confirmados": 7155,
+    "Defunciones": 508
+  },
+  {
+    "Fecha": "02/09/2020",
+    "Negativos": 9462,
+    "Confirmados": 6921,
+    "Defunciones": 490
+  },
+  {
+    "Fecha": "03/09/2020",
+    "Negativos": 9424,
+    "Confirmados": 6300,
+    "Defunciones": 492
+  },
+  {
+    "Fecha": "04/09/2020",
+    "Negativos": 9401,
+    "Confirmados": 6041,
+    "Defunciones": 479
+  },
+  {
+    "Fecha": "05/09/2020",
+    "Negativos": 3840,
+    "Confirmados": 2906,
+    "Defunciones": 463
+  },
+  {
+    "Fecha": "06/09/2020",
+    "Negativos": 2065,
+    "Confirmados": 2098,
+    "Defunciones": 460
+  },
+  {
+    "Fecha": "07/09/2020",
+    "Negativos": 8795,
+    "Confirmados": 6428,
+    "Defunciones": 491
+  },
+  {
+    "Fecha": "08/09/2020",
+    "Negativos": 9404,
+    "Confirmados": 6629,
+    "Defunciones": 428
+  },
+  {
+    "Fecha": "09/09/2020",
+    "Negativos": 9366,
+    "Confirmados": 6065,
+    "Defunciones": 482
+  },
+  {
+    "Fecha": "10/09/2020",
+    "Negativos": 9378,
+    "Confirmados": 5707,
+    "Defunciones": 440
+  },
+  {
+    "Fecha": "11/09/2020",
+    "Negativos": 8893,
+    "Confirmados": 5506,
+    "Defunciones": 444
+  },
+  {
+    "Fecha": "12/09/2020",
+    "Negativos": 3628,
+    "Confirmados": 2815,
+    "Defunciones": 465
+  },
+  {
+    "Fecha": "13/09/2020",
+    "Negativos": 2047,
+    "Confirmados": 1918,
+    "Defunciones": 403
+  },
+  {
+    "Fecha": "14/09/2020",
+    "Negativos": 8847,
+    "Confirmados": 6273,
+    "Defunciones": 451
+  },
+  {
+    "Fecha": "15/09/2020",
+    "Negativos": 7010,
+    "Confirmados": 4372,
+    "Defunciones": 442
+  },
+  {
+    "Fecha": "16/09/2020",
+    "Negativos": 2378,
+    "Confirmados": 2251,
+    "Defunciones": 422
+  },
+  {
+    "Fecha": "17/09/2020",
+    "Negativos": 8999,
+    "Confirmados": 6416,
+    "Defunciones": 401
+  },
+  {
+    "Fecha": "18/09/2020",
+    "Negativos": 9060,
+    "Confirmados": 5614,
+    "Defunciones": 371
+  },
+  {
+    "Fecha": "19/09/2020",
+    "Negativos": 3511,
+    "Confirmados": 2822,
+    "Defunciones": 401
+  },
+  {
+    "Fecha": "20/09/2020",
+    "Negativos": 2033,
+    "Confirmados": 1865,
+    "Defunciones": 423
+  },
+  {
+    "Fecha": "21/09/2020",
+    "Negativos": 8510,
+    "Confirmados": 6323,
+    "Defunciones": 409
+  },
+  {
+    "Fecha": "22/09/2020",
+    "Negativos": 9209,
+    "Confirmados": 6177,
+    "Defunciones": 431
+  },
+  {
+    "Fecha": "23/09/2020",
+    "Negativos": 8921,
+    "Confirmados": 5834,
+    "Defunciones": 396
+  },
+  {
+    "Fecha": "24/09/2020",
+    "Negativos": 8482,
+    "Confirmados": 5408,
+    "Defunciones": 410
+  },
+  {
+    "Fecha": "25/09/2020",
+    "Negativos": 8725,
+    "Confirmados": 5287,
+    "Defunciones": 370
+  },
+  {
+    "Fecha": "26/09/2020",
+    "Negativos": 3612,
+    "Confirmados": 2671,
+    "Defunciones": 387
+  },
+  {
+    "Fecha": "27/09/2020",
+    "Negativos": 2015,
+    "Confirmados": 1840,
+    "Defunciones": 364
+  },
+  {
+    "Fecha": "28/09/2020",
+    "Negativos": 9001,
+    "Confirmados": 6304,
+    "Defunciones": 377
+  },
+  {
+    "Fecha": "29/09/2020",
+    "Negativos": 9373,
+    "Confirmados": 5964,
+    "Defunciones": 373
+  },
+  {
+    "Fecha": "30/09/2020",
+    "Negativos": 9008,
+    "Confirmados": 5558,
+    "Defunciones": 353
+  },
+  {
+    "Fecha": "01/10/2020",
+    "Negativos": 8455,
+    "Confirmados": 5293,
+    "Defunciones": 365
+  },
+  {
+    "Fecha": "02/10/2020",
+    "Negativos": 8407,
+    "Confirmados": 5006,
+    "Defunciones": 367
+  },
+  {
+    "Fecha": "03/10/2020",
+    "Negativos": 3342,
+    "Confirmados": 2458,
+    "Defunciones": 364
+  },
+  {
+    "Fecha": "04/10/2020",
+    "Negativos": 1967,
+    "Confirmados": 1769,
+    "Defunciones": 347
+  },
+  {
+    "Fecha": "05/10/2020",
+    "Negativos": 7722,
+    "Confirmados": 5934,
+    "Defunciones": 374
+  },
+  {
+    "Fecha": "06/10/2020",
+    "Negativos": 8839,
+    "Confirmados": 5956,
+    "Defunciones": 363
+  },
+  {
+    "Fecha": "07/10/2020",
+    "Negativos": 8688,
+    "Confirmados": 5775,
+    "Defunciones": 357
+  },
+  {
+    "Fecha": "08/10/2020",
+    "Negativos": 8253,
+    "Confirmados": 5513,
+    "Defunciones": 357
+  },
+  {
+    "Fecha": "09/10/2020",
+    "Negativos": 7944,
+    "Confirmados": 5666,
+    "Defunciones": 326
+  },
+  {
+    "Fecha": "10/10/2020",
+    "Negativos": 3194,
+    "Confirmados": 3041,
+    "Defunciones": 384
+  },
+  {
+    "Fecha": "11/10/2020",
+    "Negativos": 2107,
+    "Confirmados": 2218,
+    "Defunciones": 363
+  },
+  {
+    "Fecha": "12/10/2020",
+    "Negativos": 8572,
+    "Confirmados": 6827,
+    "Defunciones": 422
+  },
+  {
+    "Fecha": "13/10/2020",
+    "Negativos": 9643,
+    "Confirmados": 7135,
+    "Defunciones": 384
+  },
+  {
+    "Fecha": "14/10/2020",
+    "Negativos": 9119,
+    "Confirmados": 6476,
+    "Defunciones": 372
+  },
+  {
+    "Fecha": "15/10/2020",
+    "Negativos": 8263,
+    "Confirmados": 6466,
+    "Defunciones": 396
+  },
+  {
+    "Fecha": "16/10/2020",
+    "Negativos": 9129,
+    "Confirmados": 6615,
+    "Defunciones": 368
+  },
+  {
+    "Fecha": "17/10/2020",
+    "Negativos": 3641,
+    "Confirmados": 3354,
+    "Defunciones": 397
+  },
+  {
+    "Fecha": "18/10/2020",
+    "Negativos": 2305,
+    "Confirmados": 2369,
+    "Defunciones": 401
+  },
+  {
+    "Fecha": "19/10/2020",
+    "Negativos": 10496,
+    "Confirmados": 8233,
+    "Defunciones": 472
+  },
+  {
+    "Fecha": "20/10/2020",
+    "Negativos": 11003,
+    "Confirmados": 8394,
+    "Defunciones": 437
+  },
+  {
+    "Fecha": "21/10/2020",
+    "Negativos": 11182,
+    "Confirmados": 7420,
+    "Defunciones": 477
+  },
+  {
+    "Fecha": "22/10/2020",
+    "Negativos": 11238,
+    "Confirmados": 7296,
+    "Defunciones": 463
+  },
+  {
+    "Fecha": "23/10/2020",
+    "Negativos": 10801,
+    "Confirmados": 7235,
+    "Defunciones": 460
+  },
+  {
+    "Fecha": "24/10/2020",
+    "Negativos": 4022,
+    "Confirmados": 3503,
+    "Defunciones": 445
+  },
+  {
+    "Fecha": "25/10/2020",
+    "Negativos": 2522,
+    "Confirmados": 2474,
+    "Defunciones": 486
+  },
+  {
+    "Fecha": "26/10/2020",
+    "Negativos": 11803,
+    "Confirmados": 8411,
+    "Defunciones": 500
+  },
+  {
+    "Fecha": "27/10/2020",
+    "Negativos": 12295,
+    "Confirmados": 7949,
+    "Defunciones": 463
+  },
+  {
+    "Fecha": "28/10/2020",
+    "Negativos": 12097,
+    "Confirmados": 7185,
+    "Defunciones": 481
+  },
+  {
+    "Fecha": "29/10/2020",
+    "Negativos": 11504,
+    "Confirmados": 6873,
+    "Defunciones": 491
+  },
+  {
+    "Fecha": "30/10/2020",
+    "Negativos": 9734,
+    "Confirmados": 6284,
+    "Defunciones": 470
+  },
+  {
+    "Fecha": "31/10/2020",
+    "Negativos": 3620,
+    "Confirmados": 3019,
+    "Defunciones": 450
+  },
+  {
+    "Fecha": "01/11/2020",
+    "Negativos": 1999,
+    "Confirmados": 2172,
+    "Defunciones": 459
+  },
+  {
+    "Fecha": "02/11/2020",
+    "Negativos": 5006,
+    "Confirmados": 5171,
+    "Defunciones": 511
+  },
+  {
+    "Fecha": "03/11/2020",
+    "Negativos": 10804,
+    "Confirmados": 8087,
+    "Defunciones": 494
+  },
+  {
+    "Fecha": "04/11/2020",
+    "Negativos": 10616,
+    "Confirmados": 7637,
+    "Defunciones": 494
+  },
+  {
+    "Fecha": "05/11/2020",
+    "Negativos": 10613,
+    "Confirmados": 7557,
+    "Defunciones": 522
+  },
+  {
+    "Fecha": "06/11/2020",
+    "Negativos": 9630,
+    "Confirmados": 7098,
+    "Defunciones": 552
+  },
+  {
+    "Fecha": "07/11/2020",
+    "Negativos": 3547,
+    "Confirmados": 3545,
+    "Defunciones": 474
+  },
+  {
+    "Fecha": "08/11/2020",
+    "Negativos": 2063,
+    "Confirmados": 2652,
+    "Defunciones": 499
+  },
+  {
+    "Fecha": "09/11/2020",
+    "Negativos": 11153,
+    "Confirmados": 8974,
+    "Defunciones": 521
+  },
+  {
+    "Fecha": "10/11/2020",
+    "Negativos": 10808,
+    "Confirmados": 8939,
+    "Defunciones": 486
+  },
+  {
+    "Fecha": "11/11/2020",
+    "Negativos": 10505,
+    "Confirmados": 8358,
+    "Defunciones": 518
+  },
+  {
+    "Fecha": "12/11/2020",
+    "Negativos": 10165,
+    "Confirmados": 8151,
+    "Defunciones": 546
+  },
+  {
+    "Fecha": "13/11/2020",
+    "Negativos": 10146,
+    "Confirmados": 7581,
+    "Defunciones": 517
+  },
+  {
+    "Fecha": "14/11/2020",
+    "Negativos": 4093,
+    "Confirmados": 3908,
+    "Defunciones": 508
+  },
+  {
+    "Fecha": "15/11/2020",
+    "Negativos": 2207,
+    "Confirmados": 2641,
+    "Defunciones": 514
+  },
+  {
+    "Fecha": "16/11/2020",
+    "Negativos": 2708,
+    "Confirmados": 3313,
+    "Defunciones": 517
+  },
+  {
+    "Fecha": "17/11/2020",
+    "Negativos": 11449,
+    "Confirmados": 9625,
+    "Defunciones": 568
+  },
+  {
+    "Fecha": "18/11/2020",
+    "Negativos": 10341,
+    "Confirmados": 8719,
+    "Defunciones": 534
+  },
+  {
+    "Fecha": "19/11/2020",
+    "Negativos": 9384,
+    "Confirmados": 8215,
+    "Defunciones": 496
+  },
+  {
+    "Fecha": "20/11/2020",
+    "Negativos": 10867,
+    "Confirmados": 8395,
+    "Defunciones": 572
+  },
+  {
+    "Fecha": "21/11/2020",
+    "Negativos": 5332,
+    "Confirmados": 4220,
+    "Defunciones": 557
+  },
+  {
+    "Fecha": "22/11/2020",
+    "Negativos": 2453,
+    "Confirmados": 2785,
+    "Defunciones": 625
+  },
+  {
+    "Fecha": "23/11/2020",
+    "Negativos": 12320,
+    "Confirmados": 10361,
+    "Defunciones": 565
+  },
+  {
+    "Fecha": "24/11/2020",
+    "Negativos": 14007,
+    "Confirmados": 10287,
+    "Defunciones": 571
+  },
+  {
+    "Fecha": "25/11/2020",
+    "Negativos": 13652,
+    "Confirmados": 9586,
+    "Defunciones": 550
+  },
+  {
+    "Fecha": "26/11/2020",
+    "Negativos": 13710,
+    "Confirmados": 9600,
+    "Defunciones": 572
+  },
+  {
+    "Fecha": "27/11/2020",
+    "Negativos": 13607,
+    "Confirmados": 9618,
+    "Defunciones": 620
+  },
+  {
+    "Fecha": "28/11/2020",
+    "Negativos": 6173,
+    "Confirmados": 4896,
+    "Defunciones": 563
+  },
+  {
+    "Fecha": "29/11/2020",
+    "Negativos": 2833,
+    "Confirmados": 3013,
+    "Defunciones": 578
+  },
+  {
+    "Fecha": "30/11/2020",
+    "Negativos": 15579,
+    "Confirmados": 10934,
+    "Defunciones": 644
+  },
+  {
+    "Fecha": "01/12/2020",
+    "Negativos": 17145,
+    "Confirmados": 11633,
+    "Defunciones": 657
+  },
+  {
+    "Fecha": "02/12/2020",
+    "Negativos": 17855,
+    "Confirmados": 11466,
+    "Defunciones": 611
+  },
+  {
+    "Fecha": "03/12/2020",
+    "Negativos": 18774,
+    "Confirmados": 11219,
+    "Defunciones": 594
+  },
+  {
+    "Fecha": "04/12/2020",
+    "Negativos": 18776,
+    "Confirmados": 10915,
+    "Defunciones": 588
+  },
+  {
+    "Fecha": "05/12/2020",
+    "Negativos": 9321,
+    "Confirmados": 5998,
+    "Defunciones": 644
+  },
+  {
+    "Fecha": "06/12/2020",
+    "Negativos": 2782,
+    "Confirmados": 3178,
+    "Defunciones": 639
+  },
+  {
+    "Fecha": "07/12/2020",
+    "Negativos": 19349,
+    "Confirmados": 13110,
+    "Defunciones": 674
+  },
+  {
+    "Fecha": "08/12/2020",
+    "Negativos": 18746,
+    "Confirmados": 13007,
+    "Defunciones": 633
+  },
+  {
+    "Fecha": "09/12/2020",
+    "Negativos": 19609,
+    "Confirmados": 12502,
+    "Defunciones": 688
+  },
+  {
+    "Fecha": "10/12/2020",
+    "Negativos": 20986,
+    "Confirmados": 12756,
+    "Defunciones": 670
+  },
+  {
+    "Fecha": "11/12/2020",
+    "Negativos": 20258,
+    "Confirmados": 12499,
+    "Defunciones": 696
+  },
+  {
+    "Fecha": "12/12/2020",
+    "Negativos": 8893,
+    "Confirmados": 6902,
+    "Defunciones": 725
+  },
+  {
+    "Fecha": "13/12/2020",
+    "Negativos": 3090,
+    "Confirmados": 3422,
+    "Defunciones": 705
+  },
+  {
+    "Fecha": "14/12/2020",
+    "Negativos": 20422,
+    "Confirmados": 14381,
+    "Defunciones": 744
+  },
+  {
+    "Fecha": "15/12/2020",
+    "Negativos": 19871,
+    "Confirmados": 14046,
+    "Defunciones": 749
+  },
+  {
+    "Fecha": "16/12/2020",
+    "Negativos": 19895,
+    "Confirmados": 13331,
+    "Defunciones": 736
+  },
+  {
+    "Fecha": "17/12/2020",
+    "Negativos": 19926,
+    "Confirmados": 12800,
+    "Defunciones": 740
+  },
+  {
+    "Fecha": "18/12/2020",
+    "Negativos": 21096,
+    "Confirmados": 12551,
+    "Defunciones": 758
+  },
+  {
+    "Fecha": "19/12/2020",
+    "Negativos": 10830,
+    "Confirmados": 6616,
+    "Defunciones": 799
+  },
+  {
+    "Fecha": "20/12/2020",
+    "Negativos": 3151,
+    "Confirmados": 3799,
+    "Defunciones": 778
+  },
+  {
+    "Fecha": "21/12/2020",
+    "Negativos": 22922,
+    "Confirmados": 14476,
+    "Defunciones": 887
+  },
+  {
+    "Fecha": "22/12/2020",
+    "Negativos": 22095,
+    "Confirmados": 13887,
+    "Defunciones": 810
+  },
+  {
+    "Fecha": "23/12/2020",
+    "Negativos": 22196,
+    "Confirmados": 12823,
+    "Defunciones": 822
+  },
+  {
+    "Fecha": "24/12/2020",
+    "Negativos": 16397,
+    "Confirmados": 10480,
+    "Defunciones": 843
+  },
+  {
+    "Fecha": "25/12/2020",
+    "Negativos": 2008,
+    "Confirmados": 2735,
+    "Defunciones": 836
+  },
+  {
+    "Fecha": "26/12/2020",
+    "Negativos": 6738,
+    "Confirmados": 5933,
+    "Defunciones": 881
+  },
+  {
+    "Fecha": "27/12/2020",
+    "Negativos": 3381,
+    "Confirmados": 4397,
+    "Defunciones": 916
+  },
+  {
+    "Fecha": "28/12/2020",
+    "Negativos": 24367,
+    "Confirmados": 16224,
+    "Defunciones": 965
+  },
+  {
+    "Fecha": "29/12/2020",
+    "Negativos": 24588,
+    "Confirmados": 16099,
+    "Defunciones": 971
+  },
+  {
+    "Fecha": "30/12/2020",
+    "Negativos": 24383,
+    "Confirmados": 14728,
+    "Defunciones": 946
+  },
+  {
+    "Fecha": "31/12/2020",
+    "Negativos": 18880,
+    "Confirmados": 12083,
+    "Defunciones": 886
+  },
+  {
+    "Fecha": "01/01/2021",
+    "Negativos": 2593,
+    "Confirmados": 3413,
+    "Defunciones": 987
+  },
+  {
+    "Fecha": "02/01/2021",
+    "Negativos": 8066,
+    "Confirmados": 6948,
+    "Defunciones": 993
+  },
+  {
+    "Fecha": "03/01/2021",
+    "Negativos": 4385,
+    "Confirmados": 5274,
+    "Defunciones": 1037
+  },
+  {
+    "Fecha": "04/01/2021",
+    "Negativos": 25289,
+    "Confirmados": 18556,
+    "Defunciones": 1112
+  },
+  {
+    "Fecha": "05/01/2021",
+    "Negativos": 25527,
+    "Confirmados": 18821,
+    "Defunciones": 1069
+  },
+  {
+    "Fecha": "06/01/2021",
+    "Negativos": 25170,
+    "Confirmados": 18409,
+    "Defunciones": 1160
+  },
+  {
+    "Fecha": "07/01/2021",
+    "Negativos": 26619,
+    "Confirmados": 18766,
+    "Defunciones": 1064
+  },
+  {
+    "Fecha": "08/01/2021",
+    "Negativos": 25565,
+    "Confirmados": 18601,
+    "Defunciones": 1197
+  },
+  {
+    "Fecha": "09/01/2021",
+    "Negativos": 12708,
+    "Confirmados": 9842,
+    "Defunciones": 1143
+  },
+  {
+    "Fecha": "10/01/2021",
+    "Negativos": 4650,
+    "Confirmados": 5663,
+    "Defunciones": 1215
+  },
+  {
+    "Fecha": "11/01/2021",
+    "Negativos": 28555,
+    "Confirmados": 21044,
+    "Defunciones": 1315
+  },
+  {
+    "Fecha": "12/01/2021",
+    "Negativos": 27643,
+    "Confirmados": 19503,
+    "Defunciones": 1238
+  },
+  {
+    "Fecha": "13/01/2021",
+    "Negativos": 27630,
+    "Confirmados": 18651,
+    "Defunciones": 1247
+  },
+  {
+    "Fecha": "14/01/2021",
+    "Negativos": 28605,
+    "Confirmados": 18371,
+    "Defunciones": 1271
+  },
+  {
+    "Fecha": "15/01/2021",
+    "Negativos": 27450,
+    "Confirmados": 17514,
+    "Defunciones": 1316
+  },
+  {
+    "Fecha": "16/01/2021",
+    "Negativos": 14064,
+    "Confirmados": 9441,
+    "Defunciones": 1294
+  },
+  {
+    "Fecha": "17/01/2021",
+    "Negativos": 4641,
+    "Confirmados": 5329,
+    "Defunciones": 1402
+  },
+  {
+    "Fecha": "18/01/2021",
+    "Negativos": 29705,
+    "Confirmados": 19675,
+    "Defunciones": 1409
+  },
+  {
+    "Fecha": "19/01/2021",
+    "Negativos": 30472,
+    "Confirmados": 19046,
+    "Defunciones": 1447
+  },
+  {
+    "Fecha": "20/01/2021",
+    "Negativos": 28927,
+    "Confirmados": 17478,
+    "Defunciones": 1495
+  },
+  {
+    "Fecha": "21/01/2021",
+    "Negativos": 28672,
+    "Confirmados": 16925,
+    "Defunciones": 1435
+  },
+  {
+    "Fecha": "22/01/2021",
+    "Negativos": 30177,
+    "Confirmados": 16480,
+    "Defunciones": 1395
+  },
+  {
+    "Fecha": "23/01/2021",
+    "Negativos": 15463,
+    "Confirmados": 8803,
+    "Defunciones": 1354
+  },
+  {
+    "Fecha": "24/01/2021",
+    "Negativos": 4869,
+    "Confirmados": 4749,
+    "Defunciones": 1423
+  },
+  {
+    "Fecha": "25/01/2021",
+    "Negativos": 30366,
+    "Confirmados": 18196,
+    "Defunciones": 1478
+  },
+  {
+    "Fecha": "26/01/2021",
+    "Negativos": 31216,
+    "Confirmados": 17063,
+    "Defunciones": 1419
+  },
+  {
+    "Fecha": "27/01/2021",
+    "Negativos": 31911,
+    "Confirmados": 14919,
+    "Defunciones": 1325
+  },
+  {
+    "Fecha": "28/01/2021",
+    "Negativos": 30123,
+    "Confirmados": 14026,
+    "Defunciones": 1249
+  },
+  {
+    "Fecha": "29/01/2021",
+    "Negativos": 28278,
+    "Confirmados": 12367,
+    "Defunciones": 1247
+  },
+  {
+    "Fecha": "30/01/2021",
+    "Negativos": 14592,
+    "Confirmados": 6812,
+    "Defunciones": 1239
+  },
+  {
+    "Fecha": "31/01/2021",
+    "Negativos": 4222,
+    "Confirmados": 3709,
+    "Defunciones": 1181
+  },
+  {
+    "Fecha": "01/02/2021",
+    "Negativos": 6814,
+    "Confirmados": 4722,
+    "Defunciones": 1296
+  },
+  {
+    "Fecha": "02/02/2021",
+    "Negativos": 27891,
+    "Confirmados": 13447,
+    "Defunciones": 1264
+  },
+  {
+    "Fecha": "03/02/2021",
+    "Negativos": 25965,
+    "Confirmados": 11873,
+    "Defunciones": 1172
+  },
+  {
+    "Fecha": "04/02/2021",
+    "Negativos": 25604,
+    "Confirmados": 10835,
+    "Defunciones": 1091
+  },
+  {
+    "Fecha": "05/02/2021",
+    "Negativos": 25172,
+    "Confirmados": 10200,
+    "Defunciones": 1049
+  },
+  {
+    "Fecha": "06/02/2021",
+    "Negativos": 12198,
+    "Confirmados": 5345,
+    "Defunciones": 1050
+  },
+  {
+    "Fecha": "07/02/2021",
+    "Negativos": 3516,
+    "Confirmados": 2762,
+    "Defunciones": 968
+  },
+  {
+    "Fecha": "08/02/2021",
+    "Negativos": 25555,
+    "Confirmados": 11671,
+    "Defunciones": 1072
+  },
+  {
+    "Fecha": "09/02/2021",
+    "Negativos": 24952,
+    "Confirmados": 9323,
+    "Defunciones": 972
+  },
+  {
+    "Fecha": "10/02/2021",
+    "Negativos": 23405,
+    "Confirmados": 8532,
+    "Defunciones": 888
+  },
+  {
+    "Fecha": "11/02/2021",
+    "Negativos": 22791,
+    "Confirmados": 7836,
+    "Defunciones": 924
+  },
+  {
+    "Fecha": "12/02/2021",
+    "Negativos": 23439,
+    "Confirmados": 7723,
+    "Defunciones": 857
+  },
+  {
+    "Fecha": "13/02/2021",
+    "Negativos": 10136,
+    "Confirmados": 4001,
+    "Defunciones": 771
+  },
+  {
+    "Fecha": "14/02/2021",
+    "Negativos": 3255,
+    "Confirmados": 2172,
+    "Defunciones": 790
+  },
+  {
+    "Fecha": "15/02/2021",
+    "Negativos": 21982,
+    "Confirmados": 8342,
+    "Defunciones": 804
+  },
+  {
+    "Fecha": "16/02/2021",
+    "Negativos": 20642,
+    "Confirmados": 7802,
+    "Defunciones": 782
+  },
+  {
+    "Fecha": "17/02/2021",
+    "Negativos": 20230,
+    "Confirmados": 7038,
+    "Defunciones": 758
+  },
+  {
+    "Fecha": "18/02/2021",
+    "Negativos": 19854,
+    "Confirmados": 6982,
+    "Defunciones": 687
+  },
+  {
+    "Fecha": "19/02/2021",
+    "Negativos": 20617,
+    "Confirmados": 6799,
+    "Defunciones": 729
+  },
+  {
+    "Fecha": "20/02/2021",
+    "Negativos": 8601,
+    "Confirmados": 3433,
+    "Defunciones": 620
+  },
+  {
+    "Fecha": "21/02/2021",
+    "Negativos": 3855,
+    "Confirmados": 2050,
+    "Defunciones": 721
+  },
+  {
+    "Fecha": "22/02/2021",
+    "Negativos": 23614,
+    "Confirmados": 8649,
+    "Defunciones": 732
+  },
+  {
+    "Fecha": "23/02/2021",
+    "Negativos": 22080,
+    "Confirmados": 7520,
+    "Defunciones": 611
+  },
+  {
+    "Fecha": "24/02/2021",
+    "Negativos": 21452,
+    "Confirmados": 6878,
+    "Defunciones": 602
+  },
+  {
+    "Fecha": "25/02/2021",
+    "Negativos": 20970,
+    "Confirmados": 6788,
+    "Defunciones": 589
+  },
+  {
+    "Fecha": "26/02/2021",
+    "Negativos": 21833,
+    "Confirmados": 6886,
+    "Defunciones": 574
+  },
+  {
+    "Fecha": "27/02/2021",
+    "Negativos": 8872,
+    "Confirmados": 3509,
+    "Defunciones": 588
+  },
+  {
+    "Fecha": "28/02/2021",
+    "Negativos": 3683,
+    "Confirmados": 2116,
+    "Defunciones": 597
+  },
+  {
+    "Fecha": "01/03/2021",
+    "Negativos": 22809,
+    "Confirmados": 8675,
+    "Defunciones": 584
+  },
+  {
+    "Fecha": "02/03/2021",
+    "Negativos": 21153,
+    "Confirmados": 6955,
+    "Defunciones": 567
+  },
+  {
+    "Fecha": "03/03/2021",
+    "Negativos": 20591,
+    "Confirmados": 6589,
+    "Defunciones": 514
+  },
+  {
+    "Fecha": "04/03/2021",
+    "Negativos": 19501,
+    "Confirmados": 6334,
+    "Defunciones": 516
+  },
+  {
+    "Fecha": "05/03/2021",
+    "Negativos": 20211,
+    "Confirmados": 6014,
+    "Defunciones": 523
+  },
+  {
+    "Fecha": "06/03/2021",
+    "Negativos": 8384,
+    "Confirmados": 3066,
+    "Defunciones": 487
+  },
+  {
+    "Fecha": "07/03/2021",
+    "Negativos": 3450,
+    "Confirmados": 2001,
+    "Defunciones": 489
+  },
+  {
+    "Fecha": "08/03/2021",
+    "Negativos": 20303,
+    "Confirmados": 7093,
+    "Defunciones": 521
+  },
+  {
+    "Fecha": "09/03/2021",
+    "Negativos": 19036,
+    "Confirmados": 5976,
+    "Defunciones": 468
+  },
+  {
+    "Fecha": "10/03/2021",
+    "Negativos": 18818,
+    "Confirmados": 5529,
+    "Defunciones": 539
+  },
+  {
+    "Fecha": "11/03/2021",
+    "Negativos": 18533,
+    "Confirmados": 5373,
+    "Defunciones": 493
+  },
+  {
+    "Fecha": "12/03/2021",
+    "Negativos": 19049,
+    "Confirmados": 5267,
+    "Defunciones": 414
+  },
+  {
+    "Fecha": "13/03/2021",
+    "Negativos": 8249,
+    "Confirmados": 2671,
+    "Defunciones": 435
+  },
+  {
+    "Fecha": "14/03/2021",
+    "Negativos": 3759,
+    "Confirmados": 1562,
+    "Defunciones": 466
+  },
+  {
+    "Fecha": "15/03/2021",
+    "Negativos": 4986,
+    "Confirmados": 2151,
+    "Defunciones": 415
+  },
+  {
+    "Fecha": "16/03/2021",
+    "Negativos": 20099,
+    "Confirmados": 6785,
+    "Defunciones": 395
+  },
+  {
+    "Fecha": "17/03/2021",
+    "Negativos": 19096,
+    "Confirmados": 5314,
+    "Defunciones": 407
+  },
+  {
+    "Fecha": "18/03/2021",
+    "Negativos": 18188,
+    "Confirmados": 5042,
+    "Defunciones": 376
+  },
+  {
+    "Fecha": "19/03/2021",
+    "Negativos": 18286,
+    "Confirmados": 4777,
+    "Defunciones": 387
+  },
+  {
+    "Fecha": "20/03/2021",
+    "Negativos": 7639,
+    "Confirmados": 2441,
+    "Defunciones": 354
+  },
+  {
+    "Fecha": "21/03/2021",
+    "Negativos": 3870,
+    "Confirmados": 1559,
+    "Defunciones": 383
+  },
+  {
+    "Fecha": "22/03/2021",
+    "Negativos": 19365,
+    "Confirmados": 5947,
+    "Defunciones": 364
+  },
+  {
+    "Fecha": "23/03/2021",
+    "Negativos": 19217,
+    "Confirmados": 5223,
+    "Defunciones": 403
+  },
+  {
+    "Fecha": "24/03/2021",
+    "Negativos": 18128,
+    "Confirmados": 4670,
+    "Defunciones": 346
+  },
+  {
+    "Fecha": "25/03/2021",
+    "Negativos": 18385,
+    "Confirmados": 4623,
+    "Defunciones": 302
+  },
+  {
+    "Fecha": "26/03/2021",
+    "Negativos": 17213,
+    "Confirmados": 4201,
+    "Defunciones": 290
+  },
+  {
+    "Fecha": "27/03/2021",
+    "Negativos": 8313,
+    "Confirmados": 2263,
+    "Defunciones": 321
+  },
+  {
+    "Fecha": "28/03/2021",
+    "Negativos": 4252,
+    "Confirmados": 1328,
+    "Defunciones": 358
+  },
+  {
+    "Fecha": "29/03/2021",
+    "Negativos": 18438,
+    "Confirmados": 5317,
+    "Defunciones": 340
+  },
+  {
+    "Fecha": "30/03/2021",
+    "Negativos": 18295,
+    "Confirmados": 4462,
+    "Defunciones": 322
+  },
+  {
+    "Fecha": "31/03/2021",
+    "Negativos": 16955,
+    "Confirmados": 4046,
+    "Defunciones": 320
+  },
+  {
+    "Fecha": "01/04/2021",
+    "Negativos": 6990,
+    "Confirmados": 2096,
+    "Defunciones": 302
+  },
+  {
+    "Fecha": "02/04/2021",
+    "Negativos": 5418,
+    "Confirmados": 1706,
+    "Defunciones": 310
+  },
+  {
+    "Fecha": "03/04/2021",
+    "Negativos": 3900,
+    "Confirmados": 1617,
+    "Defunciones": 306
+  },
+  {
+    "Fecha": "04/04/2021",
+    "Negativos": 3740,
+    "Confirmados": 1434,
+    "Defunciones": 272
+  },
+  {
+    "Fecha": "05/04/2021",
+    "Negativos": 19091,
+    "Confirmados": 5561,
+    "Defunciones": 315
+  },
+  {
+    "Fecha": "06/04/2021",
+    "Negativos": 17927,
+    "Confirmados": 4658,
+    "Defunciones": 279
+  },
+  {
+    "Fecha": "07/04/2021",
+    "Negativos": 18030,
+    "Confirmados": 4425,
+    "Defunciones": 312
+  },
+  {
+    "Fecha": "08/04/2021",
+    "Negativos": 18760,
+    "Confirmados": 4253,
+    "Defunciones": 293
+  },
+  {
+    "Fecha": "09/04/2021",
+    "Negativos": 18260,
+    "Confirmados": 4063,
+    "Defunciones": 283
+  },
+  {
+    "Fecha": "10/04/2021",
+    "Negativos": 9163,
+    "Confirmados": 2231,
+    "Defunciones": 279
+  },
+  {
+    "Fecha": "11/04/2021",
+    "Negativos": 4422,
+    "Confirmados": 1210,
+    "Defunciones": 273
+  },
+  {
+    "Fecha": "12/04/2021",
+    "Negativos": 20660,
+    "Confirmados": 5099,
+    "Defunciones": 261
+  },
+  {
+    "Fecha": "13/04/2021",
+    "Negativos": 19561,
+    "Confirmados": 4257,
+    "Defunciones": 298
+  },
+  {
+    "Fecha": "14/04/2021",
+    "Negativos": 19245,
+    "Confirmados": 3853,
+    "Defunciones": 275
+  },
+  {
+    "Fecha": "15/04/2021",
+    "Negativos": 18039,
+    "Confirmados": 3783,
+    "Defunciones": 283
+  },
+  {
+    "Fecha": "16/04/2021",
+    "Negativos": 17295,
+    "Confirmados": 3334,
+    "Defunciones": 254
+  },
+  {
+    "Fecha": "17/04/2021",
+    "Negativos": 7490,
+    "Confirmados": 1690,
+    "Defunciones": 264
+  },
+  {
+    "Fecha": "18/04/2021",
+    "Negativos": 3582,
+    "Confirmados": 1101,
+    "Defunciones": 212
+  },
+  {
+    "Fecha": "19/04/2021",
+    "Negativos": 19030,
+    "Confirmados": 4350,
+    "Defunciones": 234
+  },
+  {
+    "Fecha": "20/04/2021",
+    "Negativos": 17938,
+    "Confirmados": 3667,
+    "Defunciones": 255
+  },
+  {
+    "Fecha": "21/04/2021",
+    "Negativos": 17965,
+    "Confirmados": 3639,
+    "Defunciones": 231
+  },
+  {
+    "Fecha": "22/04/2021",
+    "Negativos": 17553,
+    "Confirmados": 3287,
+    "Defunciones": 206
+  },
+  {
+    "Fecha": "23/04/2021",
+    "Negativos": 16666,
+    "Confirmados": 3191,
+    "Defunciones": 209
+  },
+  {
+    "Fecha": "24/04/2021",
+    "Negativos": 7690,
+    "Confirmados": 1748,
+    "Defunciones": 211
+  },
+  {
+    "Fecha": "25/04/2021",
+    "Negativos": 3781,
+    "Confirmados": 1072,
+    "Defunciones": 201
+  },
+  {
+    "Fecha": "26/04/2021",
+    "Negativos": 18181,
+    "Confirmados": 3996,
+    "Defunciones": 218
+  },
+  {
+    "Fecha": "27/04/2021",
+    "Negativos": 16405,
+    "Confirmados": 3460,
+    "Defunciones": 199
+  },
+  {
+    "Fecha": "28/04/2021",
+    "Negativos": 16228,
+    "Confirmados": 3184,
+    "Defunciones": 199
+  },
+  {
+    "Fecha": "29/04/2021",
+    "Negativos": 14650,
+    "Confirmados": 2981,
+    "Defunciones": 211
+  },
+  {
+    "Fecha": "30/04/2021",
+    "Negativos": 13542,
+    "Confirmados": 2701,
+    "Defunciones": 161
+  },
+  {
+    "Fecha": "01/05/2021",
+    "Negativos": 3430,
+    "Confirmados": 1002,
+    "Defunciones": 178
+  },
+  {
+    "Fecha": "02/05/2021",
+    "Negativos": 3257,
+    "Confirmados": 956,
+    "Defunciones": 192
+  },
+  {
+    "Fecha": "03/05/2021",
+    "Negativos": 15809,
+    "Confirmados": 3440,
+    "Defunciones": 170
+  },
+  {
+    "Fecha": "04/05/2021",
+    "Negativos": 15765,
+    "Confirmados": 2905,
+    "Defunciones": 158
+  },
+  {
+    "Fecha": "05/05/2021",
+    "Negativos": 13732,
+    "Confirmados": 2591,
+    "Defunciones": 178
+  },
+  {
+    "Fecha": "06/05/2021",
+    "Negativos": 15700,
+    "Confirmados": 2779,
+    "Defunciones": 154
+  },
+  {
+    "Fecha": "07/05/2021",
+    "Negativos": 14718,
+    "Confirmados": 2502,
+    "Defunciones": 134
+  },
+  {
+    "Fecha": "08/05/2021",
+    "Negativos": 6464,
+    "Confirmados": 1280,
+    "Defunciones": 134
+  },
+  {
+    "Fecha": "09/05/2021",
+    "Negativos": 3299,
+    "Confirmados": 782,
+    "Defunciones": 151
+  },
+  {
+    "Fecha": "10/05/2021",
+    "Negativos": 7649,
+    "Confirmados": 1731,
+    "Defunciones": 167
+  },
+  {
+    "Fecha": "11/05/2021",
+    "Negativos": 15769,
+    "Confirmados": 3199,
+    "Defunciones": 128
+  },
+  {
+    "Fecha": "12/05/2021",
+    "Negativos": 14069,
+    "Confirmados": 2635,
+    "Defunciones": 139
+  },
+  {
+    "Fecha": "13/05/2021",
+    "Negativos": 13025,
+    "Confirmados": 2374,
+    "Defunciones": 112
+  },
+  {
+    "Fecha": "14/05/2021",
+    "Negativos": 12912,
+    "Confirmados": 2481,
+    "Defunciones": 132
+  },
+  {
+    "Fecha": "15/05/2021",
+    "Negativos": 5970,
+    "Confirmados": 1212,
+    "Defunciones": 110
+  },
+  {
+    "Fecha": "16/05/2021",
+    "Negativos": 3859,
+    "Confirmados": 773,
+    "Defunciones": 126
+  },
+  {
+    "Fecha": "17/05/2021",
+    "Negativos": 14377,
+    "Confirmados": 2894,
+    "Defunciones": 133
+  },
+  {
+    "Fecha": "18/05/2021",
+    "Negativos": 14230,
+    "Confirmados": 2581,
+    "Defunciones": 133
+  },
+  {
+    "Fecha": "19/05/2021",
+    "Negativos": 13882,
+    "Confirmados": 2489,
+    "Defunciones": 118
+  },
+  {
+    "Fecha": "20/05/2021",
+    "Negativos": 13271,
+    "Confirmados": 2413,
+    "Defunciones": 102
+  },
+  {
+    "Fecha": "21/05/2021",
+    "Negativos": 13231,
+    "Confirmados": 2388,
+    "Defunciones": 105
+  },
+  {
+    "Fecha": "22/05/2021",
+    "Negativos": 5872,
+    "Confirmados": 1150,
+    "Defunciones": 86
+  },
+  {
+    "Fecha": "23/05/2021",
+    "Negativos": 3592,
+    "Confirmados": 799,
+    "Defunciones": 125
+  },
+  {
+    "Fecha": "24/05/2021",
+    "Negativos": 14037,
+    "Confirmados": 2956,
+    "Defunciones": 115
+  },
+  {
+    "Fecha": "25/05/2021",
+    "Negativos": 13081,
+    "Confirmados": 2717,
+    "Defunciones": 112
+  },
+  {
+    "Fecha": "26/05/2021",
+    "Negativos": 11923,
+    "Confirmados": 2634,
+    "Defunciones": 98
+  },
+  {
+    "Fecha": "27/05/2021",
+    "Negativos": 11984,
+    "Confirmados": 2558,
+    "Defunciones": 108
+  },
+  {
+    "Fecha": "28/05/2021",
+    "Negativos": 12387,
+    "Confirmados": 2499,
+    "Defunciones": 102
+  },
+  {
+    "Fecha": "29/05/2021",
+    "Negativos": 4581,
+    "Confirmados": 1139,
+    "Defunciones": 96
+  },
+  {
+    "Fecha": "30/05/2021",
+    "Negativos": 3171,
+    "Confirmados": 932,
+    "Defunciones": 96
+  },
+  {
+    "Fecha": "31/05/2021",
+    "Negativos": 13068,
+    "Confirmados": 3080,
+    "Defunciones": 112
+  },
+  {
+    "Fecha": "01/06/2021",
+    "Negativos": 11956,
+    "Confirmados": 2808,
+    "Defunciones": 98
+  },
+  {
+    "Fecha": "02/06/2021",
+    "Negativos": 11252,
+    "Confirmados": 2812,
+    "Defunciones": 93
+  },
+  {
+    "Fecha": "03/06/2021",
+    "Negativos": 11472,
+    "Confirmados": 2655,
+    "Defunciones": 69
+  },
+  {
+    "Fecha": "04/06/2021",
+    "Negativos": 11590,
+    "Confirmados": 2767,
+    "Defunciones": 90
+  },
+  {
+    "Fecha": "05/06/2021",
+    "Negativos": 4776,
+    "Confirmados": 1350,
+    "Defunciones": 105
+  },
+  {
+    "Fecha": "06/06/2021",
+    "Negativos": 2469,
+    "Confirmados": 843,
+    "Defunciones": 89
+  },
+  {
+    "Fecha": "07/06/2021",
+    "Negativos": 13483,
+    "Confirmados": 3683,
+    "Defunciones": 105
+  },
+  {
+    "Fecha": "08/06/2021",
+    "Negativos": 13253,
+    "Confirmados": 3589,
+    "Defunciones": 108
+  },
+  {
+    "Fecha": "09/06/2021",
+    "Negativos": 13156,
+    "Confirmados": 3389,
+    "Defunciones": 96
+  },
+  {
+    "Fecha": "10/06/2021",
+    "Negativos": 12786,
+    "Confirmados": 3308,
+    "Defunciones": 88
+  },
+  {
+    "Fecha": "11/06/2021",
+    "Negativos": 12597,
+    "Confirmados": 3289,
+    "Defunciones": 117
+  },
+  {
+    "Fecha": "12/06/2021",
+    "Negativos": 5195,
+    "Confirmados": 1710,
+    "Defunciones": 79
+  },
+  {
+    "Fecha": "13/06/2021",
+    "Negativos": 3300,
+    "Confirmados": 1095,
+    "Defunciones": 85
+  },
+  {
+    "Fecha": "14/06/2021",
+    "Negativos": 13920,
+    "Confirmados": 4217,
+    "Defunciones": 105
+  },
+  {
+    "Fecha": "15/06/2021",
+    "Negativos": 13460,
+    "Confirmados": 3877,
+    "Defunciones": 104
+  },
+  {
+    "Fecha": "16/06/2021",
+    "Negativos": 14210,
+    "Confirmados": 3937,
+    "Defunciones": 104
+  },
+  {
+    "Fecha": "17/06/2021",
+    "Negativos": 13858,
+    "Confirmados": 3970,
+    "Defunciones": 107
+  },
+  {
+    "Fecha": "18/06/2021",
+    "Negativos": 13865,
+    "Confirmados": 3973,
+    "Defunciones": 102
+  },
+  {
+    "Fecha": "19/06/2021",
+    "Negativos": 5840,
+    "Confirmados": 2064,
+    "Defunciones": 95
+  },
+  {
+    "Fecha": "20/06/2021",
+    "Negativos": 3775,
+    "Confirmados": 1272,
+    "Defunciones": 125
+  },
+  {
+    "Fecha": "21/06/2021",
+    "Negativos": 15623,
+    "Confirmados": 5314,
+    "Defunciones": 119
+  },
+  {
+    "Fecha": "22/06/2021",
+    "Negativos": 16030,
+    "Confirmados": 5178,
+    "Defunciones": 107
+  },
+  {
+    "Fecha": "23/06/2021",
+    "Negativos": 16345,
+    "Confirmados": 5344,
+    "Defunciones": 107
+  },
+  {
+    "Fecha": "24/06/2021",
+    "Negativos": 16316,
+    "Confirmados": 5343,
+    "Defunciones": 101
+  },
+  {
+    "Fecha": "25/06/2021",
+    "Negativos": 16454,
+    "Confirmados": 5223,
+    "Defunciones": 115
+  },
+  {
+    "Fecha": "26/06/2021",
+    "Negativos": 6912,
+    "Confirmados": 2749,
+    "Defunciones": 117
+  },
+  {
+    "Fecha": "27/06/2021",
+    "Negativos": 3907,
+    "Confirmados": 1708,
+    "Defunciones": 121
+  },
+  {
+    "Fecha": "28/06/2021",
+    "Negativos": 17846,
+    "Confirmados": 6966,
+    "Defunciones": 134
+  },
+  {
+    "Fecha": "29/06/2021",
+    "Negativos": 16315,
+    "Confirmados": 6439,
+    "Defunciones": 131
+  },
+  {
+    "Fecha": "30/06/2021",
+    "Negativos": 15534,
+    "Confirmados": 6263,
+    "Defunciones": 136
+  },
+  {
+    "Fecha": "01/07/2021",
+    "Negativos": 15763,
+    "Confirmados": 6527,
+    "Defunciones": 150
+  },
+  {
+    "Fecha": "02/07/2021",
+    "Negativos": 16014,
+    "Confirmados": 6771,
+    "Defunciones": 142
+  },
+  {
+    "Fecha": "03/07/2021",
+    "Negativos": 7492,
+    "Confirmados": 3466,
+    "Defunciones": 125
+  },
+  {
+    "Fecha": "04/07/2021",
+    "Negativos": 4360,
+    "Confirmados": 2268,
+    "Defunciones": 160
+  },
+  {
+    "Fecha": "05/07/2021",
+    "Negativos": 19817,
+    "Confirmados": 9301,
+    "Defunciones": 155
+  },
+  {
+    "Fecha": "06/07/2021",
+    "Negativos": 19174,
+    "Confirmados": 9318,
+    "Defunciones": 181
+  },
+  {
+    "Fecha": "07/07/2021",
+    "Negativos": 22126,
+    "Confirmados": 10106,
+    "Defunciones": 171
+  },
+  {
+    "Fecha": "08/07/2021",
+    "Negativos": 20842,
+    "Confirmados": 10118,
+    "Defunciones": 165
+  },
+  {
+    "Fecha": "09/07/2021",
+    "Negativos": 22311,
+    "Confirmados": 10529,
+    "Defunciones": 157
+  },
+  {
+    "Fecha": "10/07/2021",
+    "Negativos": 9381,
+    "Confirmados": 5323,
+    "Defunciones": 173
+  },
+  {
+    "Fecha": "11/07/2021",
+    "Negativos": 5539,
+    "Confirmados": 3529,
+    "Defunciones": 187
+  },
+  {
+    "Fecha": "12/07/2021",
+    "Negativos": 26002,
+    "Confirmados": 13965,
+    "Defunciones": 227
+  },
+  {
+    "Fecha": "13/07/2021",
+    "Negativos": 26068,
+    "Confirmados": 14070,
+    "Defunciones": 181
+  },
+  {
+    "Fecha": "14/07/2021",
+    "Negativos": 26478,
+    "Confirmados": 13947,
+    "Defunciones": 226
+  },
+  {
+    "Fecha": "15/07/2021",
+    "Negativos": 27015,
+    "Confirmados": 13581,
+    "Defunciones": 228
+  },
+  {
+    "Fecha": "16/07/2021",
+    "Negativos": 27462,
+    "Confirmados": 14100,
+    "Defunciones": 238
+  },
+  {
+    "Fecha": "17/07/2021",
+    "Negativos": 11165,
+    "Confirmados": 6905,
+    "Defunciones": 252
+  },
+  {
+    "Fecha": "18/07/2021",
+    "Negativos": 6689,
+    "Confirmados": 4688,
+    "Defunciones": 270
+  },
+  {
+    "Fecha": "19/07/2021",
+    "Negativos": 31007,
+    "Confirmados": 18208,
+    "Defunciones": 313
+  },
+  {
+    "Fecha": "20/07/2021",
+    "Negativos": 31935,
+    "Confirmados": 18365,
+    "Defunciones": 329
+  },
+  {
+    "Fecha": "21/07/2021",
+    "Negativos": 32076,
+    "Confirmados": 17945,
+    "Defunciones": 348
+  },
+  {
+    "Fecha": "22/07/2021",
+    "Negativos": 33384,
+    "Confirmados": 18864,
+    "Defunciones": 308
+  },
+  {
+    "Fecha": "23/07/2021",
+    "Negativos": 32759,
+    "Confirmados": 18020,
+    "Defunciones": 377
+  },
+  {
+    "Fecha": "24/07/2021",
+    "Negativos": 12984,
+    "Confirmados": 8730,
+    "Defunciones": 342
+  },
+  {
+    "Fecha": "25/07/2021",
+    "Negativos": 8062,
+    "Confirmados": 6385,
+    "Defunciones": 398
+  },
+  {
+    "Fecha": "26/07/2021",
+    "Negativos": 34031,
+    "Confirmados": 22782,
+    "Defunciones": 458
+  },
+  {
+    "Fecha": "27/07/2021",
+    "Negativos": 35028,
+    "Confirmados": 22172,
+    "Defunciones": 460
+  },
+  {
+    "Fecha": "28/07/2021",
+    "Negativos": 34538,
+    "Confirmados": 20708,
+    "Defunciones": 478
+  },
+  {
+    "Fecha": "29/07/2021",
+    "Negativos": 34558,
+    "Confirmados": 21408,
+    "Defunciones": 472
+  },
+  {
+    "Fecha": "30/07/2021",
+    "Negativos": 33187,
+    "Confirmados": 20126,
+    "Defunciones": 527
+  },
+  {
+    "Fecha": "31/07/2021",
+    "Negativos": 12836,
+    "Confirmados": 9386,
+    "Defunciones": 537
+  },
+  {
+    "Fecha": "01/08/2021",
+    "Negativos": 8350,
+    "Confirmados": 7336,
+    "Defunciones": 570
+  },
+  {
+    "Fecha": "02/08/2021",
+    "Negativos": 34667,
+    "Confirmados": 23616,
+    "Defunciones": 649
+  },
+  {
+    "Fecha": "03/08/2021",
+    "Negativos": 35560,
+    "Confirmados": 22984,
+    "Defunciones": 584
+  },
+  {
+    "Fecha": "04/08/2021",
+    "Negativos": 34624,
+    "Confirmados": 21739,
+    "Defunciones": 591
+  },
+  {
+    "Fecha": "05/08/2021",
+    "Negativos": 34005,
+    "Confirmados": 21976,
+    "Defunciones": 633
+  },
+  {
+    "Fecha": "06/08/2021",
+    "Negativos": 33182,
+    "Confirmados": 21245,
+    "Defunciones": 627
+  },
+  {
+    "Fecha": "07/08/2021",
+    "Negativos": 14652,
+    "Confirmados": 10090,
+    "Defunciones": 643
+  },
+  {
+    "Fecha": "08/08/2021",
+    "Negativos": 9077,
+    "Confirmados": 7570,
+    "Defunciones": 655
+  },
+  {
+    "Fecha": "09/08/2021",
+    "Negativos": 37983,
+    "Confirmados": 25605,
+    "Defunciones": 751
+  },
+  {
+    "Fecha": "10/08/2021",
+    "Negativos": 37658,
+    "Confirmados": 24742,
+    "Defunciones": 718
+  },
+  {
+    "Fecha": "11/08/2021",
+    "Negativos": 36955,
+    "Confirmados": 23151,
+    "Defunciones": 713
+  },
+  {
+    "Fecha": "12/08/2021",
+    "Negativos": 37066,
+    "Confirmados": 22322,
+    "Defunciones": 719
+  },
+  {
+    "Fecha": "13/08/2021",
+    "Negativos": 36015,
+    "Confirmados": 21661,
+    "Defunciones": 710
+  },
+  {
+    "Fecha": "14/08/2021",
+    "Negativos": 14622,
+    "Confirmados": 9525,
+    "Defunciones": 746
+  },
+  {
+    "Fecha": "15/08/2021",
+    "Negativos": 8603,
+    "Confirmados": 6787,
+    "Defunciones": 773
+  },
+  {
+    "Fecha": "16/08/2021",
+    "Negativos": 36457,
+    "Confirmados": 24481,
+    "Defunciones": 816
+  },
+  {
+    "Fecha": "17/08/2021",
+    "Negativos": 36722,
+    "Confirmados": 22004,
+    "Defunciones": 758
+  },
+  {
+    "Fecha": "18/08/2021",
+    "Negativos": 34566,
+    "Confirmados": 20961,
+    "Defunciones": 882
+  },
+  {
+    "Fecha": "19/08/2021",
+    "Negativos": 32916,
+    "Confirmados": 19076,
+    "Defunciones": 784
+  },
+  {
+    "Fecha": "20/08/2021",
+    "Negativos": 32754,
+    "Confirmados": 18049,
+    "Defunciones": 769
+  },
+  {
+    "Fecha": "21/08/2021",
+    "Negativos": 11680,
+    "Confirmados": 7668,
+    "Defunciones": 817
+  },
+  {
+    "Fecha": "22/08/2021",
+    "Negativos": 7712,
+    "Confirmados": 5924,
+    "Defunciones": 743
+  },
+  {
+    "Fecha": "23/08/2021",
+    "Negativos": 32019,
+    "Confirmados": 21305,
+    "Defunciones": 870
+  },
+  {
+    "Fecha": "24/08/2021",
+    "Negativos": 30894,
+    "Confirmados": 18781,
+    "Defunciones": 821
+  },
+  {
+    "Fecha": "25/08/2021",
+    "Negativos": 28947,
+    "Confirmados": 17319,
+    "Defunciones": 755
+  },
+  {
+    "Fecha": "26/08/2021",
+    "Negativos": 27959,
+    "Confirmados": 16288,
+    "Defunciones": 796
+  },
+  {
+    "Fecha": "27/08/2021",
+    "Negativos": 26331,
+    "Confirmados": 15730,
+    "Defunciones": 737
+  },
+  {
+    "Fecha": "28/08/2021",
+    "Negativos": 10852,
+    "Confirmados": 7062,
+    "Defunciones": 744
+  },
+  {
+    "Fecha": "29/08/2021",
+    "Negativos": 6494,
+    "Confirmados": 4814,
+    "Defunciones": 766
+  },
+  {
+    "Fecha": "30/08/2021",
+    "Negativos": 28912,
+    "Confirmados": 17773,
+    "Defunciones": 751
+  },
+  {
+    "Fecha": "31/08/2021",
+    "Negativos": 25435,
+    "Confirmados": 15638,
+    "Defunciones": 765
+  },
+  {
+    "Fecha": "01/09/2021",
+    "Negativos": 24942,
+    "Confirmados": 14760,
+    "Defunciones": 703
+  },
+  {
+    "Fecha": "02/09/2021",
+    "Negativos": 23741,
+    "Confirmados": 13942,
+    "Defunciones": 683
+  },
+  {
+    "Fecha": "03/09/2021",
+    "Negativos": 25176,
+    "Confirmados": 13353,
+    "Defunciones": 691
+  },
+  {
+    "Fecha": "04/09/2021",
+    "Negativos": 10360,
+    "Confirmados": 6367,
+    "Defunciones": 652
+  },
+  {
+    "Fecha": "05/09/2021",
+    "Negativos": 6242,
+    "Confirmados": 4201,
+    "Defunciones": 688
+  },
+  {
+    "Fecha": "06/09/2021",
+    "Negativos": 28158,
+    "Confirmados": 16005,
+    "Defunciones": 691
+  },
+  {
+    "Fecha": "07/09/2021",
+    "Negativos": 25368,
+    "Confirmados": 13468,
+    "Defunciones": 670
+  },
+  {
+    "Fecha": "08/09/2021",
+    "Negativos": 23541,
+    "Confirmados": 12203,
+    "Defunciones": 611
+  },
+  {
+    "Fecha": "09/09/2021",
+    "Negativos": 24444,
+    "Confirmados": 12155,
+    "Defunciones": 632
+  },
+  {
+    "Fecha": "10/09/2021",
+    "Negativos": 24405,
+    "Confirmados": 11885,
+    "Defunciones": 617
+  },
+  {
+    "Fecha": "11/09/2021",
+    "Negativos": 10157,
+    "Confirmados": 5233,
+    "Defunciones": 561
+  },
+  {
+    "Fecha": "12/09/2021",
+    "Negativos": 6494,
+    "Confirmados": 3746,
+    "Defunciones": 595
+  },
+  {
+    "Fecha": "13/09/2021",
+    "Negativos": 25961,
+    "Confirmados": 13866,
+    "Defunciones": 597
+  },
+  {
+    "Fecha": "14/09/2021",
+    "Negativos": 23448,
+    "Confirmados": 11765,
+    "Defunciones": 563
+  },
+  {
+    "Fecha": "15/09/2021",
+    "Negativos": 17582,
+    "Confirmados": 7736,
+    "Defunciones": 542
+  },
+  {
+    "Fecha": "16/09/2021",
+    "Negativos": 6095,
+    "Confirmados": 3839,
+    "Defunciones": 545
+  },
+  {
+    "Fecha": "17/09/2021",
+    "Negativos": 24334,
+    "Confirmados": 11776,
+    "Defunciones": 547
+  },
+  {
+    "Fecha": "18/09/2021",
+    "Negativos": 9553,
+    "Confirmados": 4722,
+    "Defunciones": 494
+  },
+  {
+    "Fecha": "19/09/2021",
+    "Negativos": 6099,
+    "Confirmados": 3242,
+    "Defunciones": 474
+  },
+  {
+    "Fecha": "20/09/2021",
+    "Negativos": 27548,
+    "Confirmados": 12796,
+    "Defunciones": 539
+  },
+  {
+    "Fecha": "21/09/2021",
+    "Negativos": 24334,
+    "Confirmados": 10460,
+    "Defunciones": 546
+  },
+  {
+    "Fecha": "22/09/2021",
+    "Negativos": 23213,
+    "Confirmados": 9954,
+    "Defunciones": 470
+  },
+  {
+    "Fecha": "23/09/2021",
+    "Negativos": 21753,
+    "Confirmados": 8866,
+    "Defunciones": 436
+  },
+  {
+    "Fecha": "24/09/2021",
+    "Negativos": 22491,
+    "Confirmados": 8828,
+    "Defunciones": 457
+  },
+  {
+    "Fecha": "25/09/2021",
+    "Negativos": 8986,
+    "Confirmados": 3794,
+    "Defunciones": 413
+  },
+  {
+    "Fecha": "26/09/2021",
+    "Negativos": 5919,
+    "Confirmados": 2744,
+    "Defunciones": 424
+  },
+  {
+    "Fecha": "27/09/2021",
+    "Negativos": 24608,
+    "Confirmados": 10325,
+    "Defunciones": 429
+  },
+  {
+    "Fecha": "28/09/2021",
+    "Negativos": 22100,
+    "Confirmados": 7899,
+    "Defunciones": 437
+  },
+  {
+    "Fecha": "29/09/2021",
+    "Negativos": 20135,
+    "Confirmados": 7358,
+    "Defunciones": 403
+  },
+  {
+    "Fecha": "30/09/2021",
+    "Negativos": 18356,
+    "Confirmados": 6486,
+    "Defunciones": 371
+  },
+  {
+    "Fecha": "01/10/2021",
+    "Negativos": 18970,
+    "Confirmados": 6152,
+    "Defunciones": 386
+  },
+  {
+    "Fecha": "02/10/2021",
+    "Negativos": 8001,
+    "Confirmados": 2819,
+    "Defunciones": 350
+  },
+  {
+    "Fecha": "03/10/2021",
+    "Negativos": 5140,
+    "Confirmados": 2138,
+    "Defunciones": 359
+  },
+  {
+    "Fecha": "04/10/2021",
+    "Negativos": 21577,
+    "Confirmados": 7853,
+    "Defunciones": 387
+  },
+  {
+    "Fecha": "05/10/2021",
+    "Negativos": 20006,
+    "Confirmados": 6566,
+    "Defunciones": 337
+  },
+  {
+    "Fecha": "06/10/2021",
+    "Negativos": 19501,
+    "Confirmados": 6103,
+    "Defunciones": 305
+  },
+  {
+    "Fecha": "07/10/2021",
+    "Negativos": 18256,
+    "Confirmados": 5495,
+    "Defunciones": 311
+  },
+  {
+    "Fecha": "08/10/2021",
+    "Negativos": 18905,
+    "Confirmados": 5220,
+    "Defunciones": 340
+  },
+  {
+    "Fecha": "09/10/2021",
+    "Negativos": 8535,
+    "Confirmados": 2418,
+    "Defunciones": 290
+  },
+  {
+    "Fecha": "10/10/2021",
+    "Negativos": 6033,
+    "Confirmados": 2031,
+    "Defunciones": 287
+  },
+  {
+    "Fecha": "11/10/2021",
+    "Negativos": 22740,
+    "Confirmados": 6758,
+    "Defunciones": 315
+  },
+  {
+    "Fecha": "12/10/2021",
+    "Negativos": 19543,
+    "Confirmados": 5426,
+    "Defunciones": 291
+  },
+  {
+    "Fecha": "13/10/2021",
+    "Negativos": 19266,
+    "Confirmados": 4875,
+    "Defunciones": 290
+  },
+  {
+    "Fecha": "14/10/2021",
+    "Negativos": 18660,
+    "Confirmados": 4866,
+    "Defunciones": 264
+  },
+  {
+    "Fecha": "15/10/2021",
+    "Negativos": 18975,
+    "Confirmados": 4685,
+    "Defunciones": 269
+  },
+  {
+    "Fecha": "16/10/2021",
+    "Negativos": 7406,
+    "Confirmados": 1870,
+    "Defunciones": 270
+  },
+  {
+    "Fecha": "17/10/2021",
+    "Negativos": 4915,
+    "Confirmados": 1406,
+    "Defunciones": 232
+  },
+  {
+    "Fecha": "18/10/2021",
+    "Negativos": 21160,
+    "Confirmados": 5577,
+    "Defunciones": 232
+  },
+  {
+    "Fecha": "19/10/2021",
+    "Negativos": 19052,
+    "Confirmados": 4541,
+    "Defunciones": 227
+  },
+  {
+    "Fecha": "20/10/2021",
+    "Negativos": 19148,
+    "Confirmados": 4268,
+    "Defunciones": 236
+  },
+  {
+    "Fecha": "21/10/2021",
+    "Negativos": 18053,
+    "Confirmados": 4120,
+    "Defunciones": 224
+  },
+  {
+    "Fecha": "22/10/2021",
+    "Negativos": 18295,
+    "Confirmados": 3980,
+    "Defunciones": 212
+  },
+  {
+    "Fecha": "23/10/2021",
+    "Negativos": 7389,
+    "Confirmados": 1705,
+    "Defunciones": 216
+  },
+  {
+    "Fecha": "24/10/2021",
+    "Negativos": 4966,
+    "Confirmados": 1296,
+    "Defunciones": 196
+  },
+  {
+    "Fecha": "25/10/2021",
+    "Negativos": 21241,
+    "Confirmados": 5252,
+    "Defunciones": 205
+  },
+  {
+    "Fecha": "26/10/2021",
+    "Negativos": 18807,
+    "Confirmados": 4206,
+    "Defunciones": 184
+  },
+  {
+    "Fecha": "27/10/2021",
+    "Negativos": 17768,
+    "Confirmados": 3847,
+    "Defunciones": 183
+  },
+  {
+    "Fecha": "28/10/2021",
+    "Negativos": 16949,
+    "Confirmados": 3654,
+    "Defunciones": 188
+  },
+  {
+    "Fecha": "29/10/2021",
+    "Negativos": 15767,
+    "Confirmados": 3485,
+    "Defunciones": 203
+  },
+  {
+    "Fecha": "30/10/2021",
+    "Negativos": 6623,
+    "Confirmados": 1286,
+    "Defunciones": 174
+  },
+  {
+    "Fecha": "31/10/2021",
+    "Negativos": 4252,
+    "Confirmados": 966,
+    "Defunciones": 147
+  },
+  {
+    "Fecha": "01/11/2021",
+    "Negativos": 14787,
+    "Confirmados": 3467,
+    "Defunciones": 193
+  },
+  {
+    "Fecha": "02/11/2021",
+    "Negativos": 10445,
+    "Confirmados": 2562,
+    "Defunciones": 165
+  },
+  {
+    "Fecha": "03/11/2021",
+    "Negativos": 18888,
+    "Confirmados": 3875,
+    "Defunciones": 183
+  },
+  {
+    "Fecha": "04/11/2021",
+    "Negativos": 18679,
+    "Confirmados": 3520,
+    "Defunciones": 147
+  },
+  {
+    "Fecha": "05/11/2021",
+    "Negativos": 17766,
+    "Confirmados": 3231,
+    "Defunciones": 150
+  },
+  {
+    "Fecha": "06/11/2021",
+    "Negativos": 6661,
+    "Confirmados": 1403,
+    "Defunciones": 142
+  },
+  {
+    "Fecha": "07/11/2021",
+    "Negativos": 4942,
+    "Confirmados": 1030,
+    "Defunciones": 144
+  },
+  {
+    "Fecha": "08/11/2021",
+    "Negativos": 20421,
+    "Confirmados": 4213,
+    "Defunciones": 178
+  },
+  {
+    "Fecha": "09/11/2021",
+    "Negativos": 18529,
+    "Confirmados": 3579,
+    "Defunciones": 137
+  },
+  {
+    "Fecha": "10/11/2021",
+    "Negativos": 17832,
+    "Confirmados": 3346,
+    "Defunciones": 147
+  },
+  {
+    "Fecha": "11/11/2021",
+    "Negativos": 16773,
+    "Confirmados": 3323,
+    "Defunciones": 150
+  },
+  {
+    "Fecha": "12/11/2021",
+    "Negativos": 15864,
+    "Confirmados": 3107,
+    "Defunciones": 114
+  },
+  {
+    "Fecha": "13/11/2021",
+    "Negativos": 5824,
+    "Confirmados": 1223,
+    "Defunciones": 146
+  },
+  {
+    "Fecha": "14/11/2021",
+    "Negativos": 4084,
+    "Confirmados": 868,
+    "Defunciones": 136
+  },
+  {
+    "Fecha": "15/11/2021",
+    "Negativos": 5764,
+    "Confirmados": 1381,
+    "Defunciones": 149
+  },
+  {
+    "Fecha": "16/11/2021",
+    "Negativos": 17962,
+    "Confirmados": 3938,
+    "Defunciones": 154
+  },
+  {
+    "Fecha": "17/11/2021",
+    "Negativos": 16730,
+    "Confirmados": 3605,
+    "Defunciones": 129
+  },
+  {
+    "Fecha": "18/11/2021",
+    "Negativos": 16636,
+    "Confirmados": 3235,
+    "Defunciones": 126
+  },
+  {
+    "Fecha": "19/11/2021",
+    "Negativos": 15256,
+    "Confirmados": 2978,
+    "Defunciones": 125
+  },
+  {
+    "Fecha": "20/11/2021",
+    "Negativos": 6529,
+    "Confirmados": 1294,
+    "Defunciones": 140
+  },
+  {
+    "Fecha": "21/11/2021",
+    "Negativos": 5139,
+    "Confirmados": 982,
+    "Defunciones": 135
+  },
+  {
+    "Fecha": "22/11/2021",
+    "Negativos": 18178,
+    "Confirmados": 4391,
+    "Defunciones": 143
+  },
+  {
+    "Fecha": "23/11/2021",
+    "Negativos": 16361,
+    "Confirmados": 3526,
+    "Defunciones": 133
+  },
+  {
+    "Fecha": "24/11/2021",
+    "Negativos": 16408,
+    "Confirmados": 3236,
+    "Defunciones": 131
+  },
+  {
+    "Fecha": "25/11/2021",
+    "Negativos": 15639,
+    "Confirmados": 3135,
+    "Defunciones": 117
+  },
+  {
+    "Fecha": "26/11/2021",
+    "Negativos": 15852,
+    "Confirmados": 2785,
+    "Defunciones": 128
+  },
+  {
+    "Fecha": "27/11/2021",
+    "Negativos": 6345,
+    "Confirmados": 1152,
+    "Defunciones": 130
+  },
+  {
+    "Fecha": "28/11/2021",
+    "Negativos": 4349,
+    "Confirmados": 1005,
+    "Defunciones": 138
+  },
+  {
+    "Fecha": "29/11/2021",
+    "Negativos": 17660,
+    "Confirmados": 3916,
+    "Defunciones": 122
+  },
+  {
+    "Fecha": "30/11/2021",
+    "Negativos": 15883,
+    "Confirmados": 3190,
+    "Defunciones": 136
+  },
+  {
+    "Fecha": "01/12/2021",
+    "Negativos": 15552,
+    "Confirmados": 3044,
+    "Defunciones": 160
+  },
+  {
+    "Fecha": "02/12/2021",
+    "Negativos": 14892,
+    "Confirmados": 3163,
+    "Defunciones": 115
+  },
+  {
+    "Fecha": "03/12/2021",
+    "Negativos": 14946,
+    "Confirmados": 2777,
+    "Defunciones": 139
+  },
+  {
+    "Fecha": "04/12/2021",
+    "Negativos": 5470,
+    "Confirmados": 1061,
+    "Defunciones": 108
+  },
+  {
+    "Fecha": "05/12/2021",
+    "Negativos": 4602,
+    "Confirmados": 882,
+    "Defunciones": 127
+  },
+  {
+    "Fecha": "06/12/2021",
+    "Negativos": 17682,
+    "Confirmados": 3749,
+    "Defunciones": 144
+  },
+  {
+    "Fecha": "07/12/2021",
+    "Negativos": 15985,
+    "Confirmados": 3255,
+    "Defunciones": 131
+  },
+  {
+    "Fecha": "08/12/2021",
+    "Negativos": 15335,
+    "Confirmados": 2935,
+    "Defunciones": 143
+  },
+  {
+    "Fecha": "09/12/2021",
+    "Negativos": 15561,
+    "Confirmados": 2814,
+    "Defunciones": 136
+  },
+  {
+    "Fecha": "10/12/2021",
+    "Negativos": 14020,
+    "Confirmados": 2788,
+    "Defunciones": 114
+  },
+  {
+    "Fecha": "11/12/2021",
+    "Negativos": 5427,
+    "Confirmados": 926,
+    "Defunciones": 129
+  },
+  {
+    "Fecha": "12/12/2021",
+    "Negativos": 4365,
+    "Confirmados": 906,
+    "Defunciones": 115
+  },
+  {
+    "Fecha": "13/12/2021",
+    "Negativos": 15900,
+    "Confirmados": 3322,
+    "Defunciones": 126
+  },
+  {
+    "Fecha": "14/12/2021",
+    "Negativos": 14611,
+    "Confirmados": 2834,
+    "Defunciones": 129
+  },
+  {
+    "Fecha": "15/12/2021",
+    "Negativos": 14466,
+    "Confirmados": 2828,
+    "Defunciones": 124
+  },
+  {
+    "Fecha": "16/12/2021",
+    "Negativos": 13785,
+    "Confirmados": 2770,
+    "Defunciones": 119
+  },
+  {
+    "Fecha": "17/12/2021",
+    "Negativos": 12852,
+    "Confirmados": 2542,
+    "Defunciones": 106
+  },
+  {
+    "Fecha": "18/12/2021",
+    "Negativos": 5367,
+    "Confirmados": 1156,
+    "Defunciones": 131
+  },
+  {
+    "Fecha": "19/12/2021",
+    "Negativos": 4271,
+    "Confirmados": 987,
+    "Defunciones": 113
+  },
+  {
+    "Fecha": "20/12/2021",
+    "Negativos": 14970,
+    "Confirmados": 3820,
+    "Defunciones": 109
+  },
+  {
+    "Fecha": "21/12/2021",
+    "Negativos": 13757,
+    "Confirmados": 3649,
+    "Defunciones": 116
+  },
+  {
+    "Fecha": "22/12/2021",
+    "Negativos": 14898,
+    "Confirmados": 3939,
+    "Defunciones": 123
+  },
+  {
+    "Fecha": "23/12/2021",
+    "Negativos": 14532,
+    "Confirmados": 4134,
+    "Defunciones": 97
+  },
+  {
+    "Fecha": "24/12/2021",
+    "Negativos": 11314,
+    "Confirmados": 3318,
+    "Defunciones": 121
+  },
+  {
+    "Fecha": "25/12/2021",
+    "Negativos": 2924,
+    "Confirmados": 1113,
+    "Defunciones": 111
+  },
+  {
+    "Fecha": "26/12/2021",
+    "Negativos": 5185,
+    "Confirmados": 2012,
+    "Defunciones": 118
+  },
+  {
+    "Fecha": "27/12/2021",
+    "Negativos": 18465,
+    "Confirmados": 8260,
+    "Defunciones": 118
+  },
+  {
+    "Fecha": "28/12/2021",
+    "Negativos": 19819,
+    "Confirmados": 9831,
+    "Defunciones": 117
+  },
+  {
+    "Fecha": "29/12/2021",
+    "Negativos": 20907,
+    "Confirmados": 11627,
+    "Defunciones": 103
+  },
+  {
+    "Fecha": "30/12/2021",
+    "Negativos": 21401,
+    "Confirmados": 12780,
+    "Defunciones": 96
+  },
+  {
+    "Fecha": "31/12/2021",
+    "Negativos": 17013,
+    "Confirmados": 11297,
+    "Defunciones": 107
+  },
+  {
+    "Fecha": "01/01/2022",
+    "Negativos": 5450,
+    "Confirmados": 3744,
+    "Defunciones": 109
+  },
+  {
+    "Fecha": "02/01/2022",
+    "Negativos": 7703,
+    "Confirmados": 5845,
+    "Defunciones": 106
+  },
+  {
+    "Fecha": "03/01/2022",
+    "Negativos": 30055,
+    "Confirmados": 24183,
+    "Defunciones": 145
+  },
+  {
+    "Fecha": "04/01/2022",
+    "Negativos": 32458,
+    "Confirmados": 32191,
+    "Defunciones": 135
+  },
+  {
+    "Fecha": "05/01/2022",
+    "Negativos": 37566,
+    "Confirmados": 38820,
+    "Defunciones": 139
+  },
+  {
+    "Fecha": "06/01/2022",
+    "Negativos": 37987,
+    "Confirmados": 42510,
+    "Defunciones": 138
+  },
+  {
+    "Fecha": "07/01/2022",
+    "Negativos": 41054,
+    "Confirmados": 46477,
+    "Defunciones": 134
+  },
+  {
+    "Fecha": "08/01/2022",
+    "Negativos": 20038,
+    "Confirmados": 22535,
+    "Defunciones": 142
+  },
+  {
+    "Fecha": "09/01/2022",
+    "Negativos": 14595,
+    "Confirmados": 18947,
+    "Defunciones": 170
+  },
+  {
+    "Fecha": "10/01/2022",
+    "Negativos": 45811,
+    "Confirmados": 68741,
+    "Defunciones": 182
+  },
+  {
+    "Fecha": "11/01/2022",
+    "Negativos": 43888,
+    "Confirmados": 71693,
+    "Defunciones": 183
+  },
+  {
+    "Fecha": "12/01/2022",
+    "Negativos": 43482,
+    "Confirmados": 75512,
+    "Defunciones": 225
+  },
+  {
+    "Fecha": "13/01/2022",
+    "Negativos": 39660,
+    "Confirmados": 74695,
+    "Defunciones": 227
+  },
+  {
+    "Fecha": "14/01/2022",
+    "Negativos": 39260,
+    "Confirmados": 73424,
+    "Defunciones": 242
+  },
+  {
+    "Fecha": "15/01/2022",
+    "Negativos": 17874,
+    "Confirmados": 31311,
+    "Defunciones": 247
+  },
+  {
+    "Fecha": "16/01/2022",
+    "Negativos": 11160,
+    "Confirmados": 23829,
+    "Defunciones": 278
+  },
+  {
+    "Fecha": "17/01/2022",
+    "Negativos": 33940,
+    "Confirmados": 80986,
+    "Defunciones": 318
+  },
+  {
+    "Fecha": "18/01/2022",
+    "Negativos": 31878,
+    "Confirmados": 75092,
+    "Defunciones": 374
+  },
+  {
+    "Fecha": "19/01/2022",
+    "Negativos": 30901,
+    "Confirmados": 70883,
+    "Defunciones": 358
+  },
+  {
+    "Fecha": "20/01/2022",
+    "Negativos": 28536,
+    "Confirmados": 65613,
+    "Defunciones": 387
+  },
+  {
+    "Fecha": "21/01/2022",
+    "Negativos": 29054,
+    "Confirmados": 57732,
+    "Defunciones": 402
+  },
+  {
+    "Fecha": "22/01/2022",
+    "Negativos": 14071,
+    "Confirmados": 25187,
+    "Defunciones": 452
+  },
+  {
+    "Fecha": "23/01/2022",
+    "Negativos": 8557,
+    "Confirmados": 18972,
+    "Defunciones": 429
+  },
+  {
+    "Fecha": "24/01/2022",
+    "Negativos": 28422,
+    "Confirmados": 61874,
+    "Defunciones": 495
+  },
+  {
+    "Fecha": "25/01/2022",
+    "Negativos": 25106,
+    "Confirmados": 51054,
+    "Defunciones": 558
+  },
+  {
+    "Fecha": "26/01/2022",
+    "Negativos": 24036,
+    "Confirmados": 46101,
+    "Defunciones": 524
+  },
+  {
+    "Fecha": "27/01/2022",
+    "Negativos": 21807,
+    "Confirmados": 41168,
+    "Defunciones": 551
+  },
+  {
+    "Fecha": "28/01/2022",
+    "Negativos": 22674,
+    "Confirmados": 36253,
+    "Defunciones": 552
+  },
+  {
+    "Fecha": "29/01/2022",
+    "Negativos": 10315,
+    "Confirmados": 16579,
+    "Defunciones": 543
+  },
+  {
+    "Fecha": "30/01/2022",
+    "Negativos": 6754,
+    "Confirmados": 12248,
+    "Defunciones": 560
+  },
+  {
+    "Fecha": "31/01/2022",
+    "Negativos": 22000,
+    "Confirmados": 37405,
+    "Defunciones": 543
+  },
+  {
+    "Fecha": "01/02/2022",
+    "Negativos": 18166,
+    "Confirmados": 29147,
+    "Defunciones": 596
+  },
+  {
+    "Fecha": "02/02/2022",
+    "Negativos": 17764,
+    "Confirmados": 26504,
+    "Defunciones": 570
+  },
+  {
+    "Fecha": "03/02/2022",
+    "Negativos": 15787,
+    "Confirmados": 23087,
+    "Defunciones": 542
+  },
+  {
+    "Fecha": "04/02/2022",
+    "Negativos": 16063,
+    "Confirmados": 19831,
+    "Defunciones": 494
+  },
+  {
+    "Fecha": "05/02/2022",
+    "Negativos": 8031,
+    "Confirmados": 8658,
+    "Defunciones": 494
+  },
+  {
+    "Fecha": "06/02/2022",
+    "Negativos": 4754,
+    "Confirmados": 6450,
+    "Defunciones": 490
+  },
+  {
+    "Fecha": "07/02/2022",
+    "Negativos": 5951,
+    "Confirmados": 9540,
+    "Defunciones": 481
+  },
+  {
+    "Fecha": "08/02/2022",
+    "Negativos": 15460,
+    "Confirmados": 19742,
+    "Defunciones": 483
+  },
+  {
+    "Fecha": "09/02/2022",
+    "Negativos": 12440,
+    "Confirmados": 14765,
+    "Defunciones": 485
+  },
+  {
+    "Fecha": "10/02/2022",
+    "Negativos": 11910,
+    "Confirmados": 13512,
+    "Defunciones": 414
+  },
+  {
+    "Fecha": "11/02/2022",
+    "Negativos": 11823,
+    "Confirmados": 12261,
+    "Defunciones": 400
+  },
+  {
+    "Fecha": "12/02/2022",
+    "Negativos": 6446,
+    "Confirmados": 5751,
+    "Defunciones": 393
+  },
+  {
+    "Fecha": "13/02/2022",
+    "Negativos": 4078,
+    "Confirmados": 4774,
+    "Defunciones": 382
+  },
+  {
+    "Fecha": "14/02/2022",
+    "Negativos": 11506,
+    "Confirmados": 13188,
+    "Defunciones": 387
+  },
+  {
+    "Fecha": "15/02/2022",
+    "Negativos": 11861,
+    "Confirmados": 10211,
+    "Defunciones": 342
+  },
+  {
+    "Fecha": "16/02/2022",
+    "Negativos": 11398,
+    "Confirmados": 9625,
+    "Defunciones": 315
+  },
+  {
+    "Fecha": "17/02/2022",
+    "Negativos": 12387,
+    "Confirmados": 9176,
+    "Defunciones": 285
+  },
+  {
+    "Fecha": "18/02/2022",
+    "Negativos": 11757,
+    "Confirmados": 8031,
+    "Defunciones": 236
+  },
+  {
+    "Fecha": "19/02/2022",
+    "Negativos": 6323,
+    "Confirmados": 3552,
+    "Defunciones": 252
+  },
+  {
+    "Fecha": "20/02/2022",
+    "Negativos": 4508,
+    "Confirmados": 3114,
+    "Defunciones": 240
+  },
+  {
+    "Fecha": "21/02/2022",
+    "Negativos": 12061,
+    "Confirmados": 8041,
+    "Defunciones": 253
+  },
+  {
+    "Fecha": "22/02/2022",
+    "Negativos": 10930,
+    "Confirmados": 6360,
+    "Defunciones": 246
+  },
+  {
+    "Fecha": "23/02/2022",
+    "Negativos": 10547,
+    "Confirmados": 5854,
+    "Defunciones": 205
+  },
+  {
+    "Fecha": "24/02/2022",
+    "Negativos": 10539,
+    "Confirmados": 5303,
+    "Defunciones": 193
+  },
+  {
+    "Fecha": "25/02/2022",
+    "Negativos": 9627,
+    "Confirmados": 4373,
+    "Defunciones": 147
+  },
+  {
+    "Fecha": "26/02/2022",
+    "Negativos": 4767,
+    "Confirmados": 1681,
+    "Defunciones": 161
+  },
+  {
+    "Fecha": "27/02/2022",
+    "Negativos": 3941,
+    "Confirmados": 1380,
+    "Defunciones": 152
+  },
+  {
+    "Fecha": "28/02/2022",
+    "Negativos": 10686,
+    "Confirmados": 5131,
+    "Defunciones": 151
+  },
+  {
+    "Fecha": "01/03/2022",
+    "Negativos": 8968,
+    "Confirmados": 3558,
+    "Defunciones": 109
+  },
+  {
+    "Fecha": "02/03/2022",
+    "Negativos": 9099,
+    "Confirmados": 3124,
+    "Defunciones": 130
+  },
+  {
+    "Fecha": "03/03/2022",
+    "Negativos": 9615,
+    "Confirmados": 3193,
+    "Defunciones": 98
+  },
+  {
+    "Fecha": "04/03/2022",
+    "Negativos": 8567,
+    "Confirmados": 2724,
+    "Defunciones": 102
+  },
+  {
+    "Fecha": "05/03/2022",
+    "Negativos": 4285,
+    "Confirmados": 1090,
+    "Defunciones": 68
+  },
+  {
+    "Fecha": "06/03/2022",
+    "Negativos": 3280,
+    "Confirmados": 888,
+    "Defunciones": 93
+  },
+  {
+    "Fecha": "07/03/2022",
+    "Negativos": 9405,
+    "Confirmados": 3004,
+    "Defunciones": 85
+  },
+  {
+    "Fecha": "08/03/2022",
+    "Negativos": 8309,
+    "Confirmados": 2407,
+    "Defunciones": 71
+  },
+  {
+    "Fecha": "09/03/2022",
+    "Negativos": 7800,
+    "Confirmados": 2367,
+    "Defunciones": 72
+  },
+  {
+    "Fecha": "10/03/2022",
+    "Negativos": 7816,
+    "Confirmados": 2217,
+    "Defunciones": 73
+  },
+  {
+    "Fecha": "11/03/2022",
+    "Negativos": 7562,
+    "Confirmados": 1846,
+    "Defunciones": 61
+  },
+  {
+    "Fecha": "12/03/2022",
+    "Negativos": 3632,
+    "Confirmados": 741,
+    "Defunciones": 63
+  },
+  {
+    "Fecha": "13/03/2022",
+    "Negativos": 3120,
+    "Confirmados": 673,
+    "Defunciones": 54
+  },
+  {
+    "Fecha": "14/03/2022",
+    "Negativos": 9309,
+    "Confirmados": 2222,
+    "Defunciones": 46
+  },
+  {
+    "Fecha": "15/03/2022",
+    "Negativos": 8554,
+    "Confirmados": 1859,
+    "Defunciones": 50
+  },
+  {
+    "Fecha": "16/03/2022",
+    "Negativos": 7598,
+    "Confirmados": 1530,
+    "Defunciones": 41
+  },
+  {
+    "Fecha": "17/03/2022",
+    "Negativos": 7672,
+    "Confirmados": 1496,
+    "Defunciones": 35
+  },
+  {
+    "Fecha": "18/03/2022",
+    "Negativos": 7207,
+    "Confirmados": 1313,
+    "Defunciones": 43
+  },
+  {
+    "Fecha": "19/03/2022",
+    "Negativos": 3344,
+    "Confirmados": 480,
+    "Defunciones": 34
+  },
+  {
+    "Fecha": "20/03/2022",
+    "Negativos": 2497,
+    "Confirmados": 317,
+    "Defunciones": 35
+  },
+  {
+    "Fecha": "21/03/2022",
+    "Negativos": 3701,
+    "Confirmados": 575,
+    "Defunciones": 26
+  },
+  {
+    "Fecha": "22/03/2022",
+    "Negativos": 9122,
+    "Confirmados": 1663,
+    "Defunciones": 31
+  },
+  {
+    "Fecha": "23/03/2022",
+    "Negativos": 8396,
+    "Confirmados": 1327,
+    "Defunciones": 27
+  },
+  {
+    "Fecha": "24/03/2022",
+    "Negativos": 8173,
+    "Confirmados": 1184,
+    "Defunciones": 23
+  },
+  {
+    "Fecha": "25/03/2022",
+    "Negativos": 6761,
+    "Confirmados": 1141,
+    "Defunciones": 27
+  },
+  {
+    "Fecha": "26/03/2022",
+    "Negativos": 3544,
+    "Confirmados": 379,
+    "Defunciones": 21
+  },
+  {
+    "Fecha": "27/03/2022",
+    "Negativos": 2709,
+    "Confirmados": 349,
+    "Defunciones": 29
+  },
+  {
+    "Fecha": "28/03/2022",
+    "Negativos": 9046,
+    "Confirmados": 1416,
+    "Defunciones": 20
+  },
+  {
+    "Fecha": "29/03/2022",
+    "Negativos": 8223,
+    "Confirmados": 1205,
+    "Defunciones": 21
+  },
+  {
+    "Fecha": "30/03/2022",
+    "Negativos": 7620,
+    "Confirmados": 1152,
+    "Defunciones": 23
+  },
+  {
+    "Fecha": "31/03/2022",
+    "Negativos": 7270,
+    "Confirmados": 1004,
+    "Defunciones": 17
+  },
+  {
+    "Fecha": "01/04/2022",
+    "Negativos": 6752,
+    "Confirmados": 747,
+    "Defunciones": 21
+  },
+  {
+    "Fecha": "02/04/2022",
+    "Negativos": 3265,
+    "Confirmados": 331,
+    "Defunciones": 12
+  },
+  {
+    "Fecha": "03/04/2022",
+    "Negativos": 2787,
+    "Confirmados": 276,
+    "Defunciones": 13
+  },
+  {
+    "Fecha": "04/04/2022",
+    "Negativos": 8639,
+    "Confirmados": 1018,
+    "Defunciones": 24
+  },
+  {
+    "Fecha": "05/04/2022",
+    "Negativos": 7938,
+    "Confirmados": 791,
+    "Defunciones": 17
+  },
+  {
+    "Fecha": "06/04/2022",
+    "Negativos": 7348,
+    "Confirmados": 792,
+    "Defunciones": 17
+  },
+  {
+    "Fecha": "07/04/2022",
+    "Negativos": 7240,
+    "Confirmados": 756,
+    "Defunciones": 13
+  },
+  {
+    "Fecha": "08/04/2022",
+    "Negativos": 6593,
+    "Confirmados": 702,
+    "Defunciones": 19
+  },
+  {
+    "Fecha": "09/04/2022",
+    "Negativos": 3380,
+    "Confirmados": 295,
+    "Defunciones": 6
+  },
+  {
+    "Fecha": "10/04/2022",
+    "Negativos": 2716,
+    "Confirmados": 251,
+    "Defunciones": 10
+  },
+  {
+    "Fecha": "11/04/2022",
+    "Negativos": 6813,
+    "Confirmados": 781,
+    "Defunciones": 6
+  },
+  {
+    "Fecha": "12/04/2022",
+    "Negativos": 6359,
+    "Confirmados": 666,
+    "Defunciones": 11
+  },
+  {
+    "Fecha": "13/04/2022",
+    "Negativos": 5425,
+    "Confirmados": 634,
+    "Defunciones": 12
+  },
+  {
+    "Fecha": "14/04/2022",
+    "Negativos": 2256,
+    "Confirmados": 275,
+    "Defunciones": 15
+  },
+  {
+    "Fecha": "15/04/2022",
+    "Negativos": 1790,
+    "Confirmados": 224,
+    "Defunciones": 9
+  },
+  {
+    "Fecha": "16/04/2022",
+    "Negativos": 2133,
+    "Confirmados": 187,
+    "Defunciones": 15
+  },
+  {
+    "Fecha": "17/04/2022",
+    "Negativos": 1849,
+    "Confirmados": 208,
+    "Defunciones": 10
+  },
+  {
+    "Fecha": "18/04/2022",
+    "Negativos": 7098,
+    "Confirmados": 855,
+    "Defunciones": 7
+  },
+  {
+    "Fecha": "19/04/2022",
+    "Negativos": 6109,
+    "Confirmados": 571,
+    "Defunciones": 7
+  },
+  {
+    "Fecha": "20/04/2022",
+    "Negativos": 5848,
+    "Confirmados": 725,
+    "Defunciones": 8
+  },
+  {
+    "Fecha": "21/04/2022",
+    "Negativos": 5404,
+    "Confirmados": 557,
+    "Defunciones": 12
+  },
+  {
+    "Fecha": "22/04/2022",
+    "Negativos": 5087,
+    "Confirmados": 561,
+    "Defunciones": 7
+  },
+  {
+    "Fecha": "23/04/2022",
+    "Negativos": 2788,
+    "Confirmados": 261,
+    "Defunciones": 8
+  },
+  {
+    "Fecha": "24/04/2022",
+    "Negativos": 2660,
+    "Confirmados": 319,
+    "Defunciones": 4
+  },
+  {
+    "Fecha": "25/04/2022",
+    "Negativos": 6593,
+    "Confirmados": 836,
+    "Defunciones": 3
+  },
+  {
+    "Fecha": "26/04/2022",
+    "Negativos": 5266,
+    "Confirmados": 660,
+    "Defunciones": 9
+  },
+  {
+    "Fecha": "27/04/2022",
+    "Negativos": 5120,
+    "Confirmados": 645,
+    "Defunciones": 7
+  },
+  {
+    "Fecha": "28/04/2022",
+    "Negativos": 4902,
+    "Confirmados": 576,
+    "Defunciones": 2
+  },
+  {
+    "Fecha": "29/04/2022",
+    "Negativos": 4503,
+    "Confirmados": 516,
+    "Defunciones": 9
+  },
+  {
+    "Fecha": "30/04/2022",
+    "Negativos": 2234,
+    "Confirmados": 214,
+    "Defunciones": 8
+  },
+  {
+    "Fecha": "01/05/2022",
+    "Negativos": 2086,
+    "Confirmados": 209,
+    "Defunciones": 7
+  },
+  {
+    "Fecha": "02/05/2022",
+    "Negativos": 6086,
+    "Confirmados": 805,
+    "Defunciones": 8
+  },
+  {
+    "Fecha": "03/05/2022",
+    "Negativos": 5358,
+    "Confirmados": 766,
+    "Defunciones": 6
+  },
+  {
+    "Fecha": "04/05/2022",
+    "Negativos": 5180,
+    "Confirmados": 735,
+    "Defunciones": 2
+  },
+  {
+    "Fecha": "05/05/2022",
+    "Negativos": 4063,
+    "Confirmados": 647,
+    "Defunciones": 4
+  },
+  {
+    "Fecha": "06/05/2022",
+    "Negativos": 4877,
+    "Confirmados": 720,
+    "Defunciones": 6
+  },
+  {
+    "Fecha": "07/05/2022",
+    "Negativos": 2190,
+    "Confirmados": 262,
+    "Defunciones": 7
+  },
+  {
+    "Fecha": "08/05/2022",
+    "Negativos": 1962,
+    "Confirmados": 254,
+    "Defunciones": 5
+  },
+  {
+    "Fecha": "09/05/2022",
+    "Negativos": 5474,
+    "Confirmados": 1033,
+    "Defunciones": 3
+  },
+  {
+    "Fecha": "10/05/2022",
+    "Negativos": 3315,
+    "Confirmados": 461,
+    "Defunciones": 9
+  },
+  {
+    "Fecha": "11/05/2022",
+    "Negativos": 5503,
+    "Confirmados": 1099,
+    "Defunciones": 5
+  },
+  {
+    "Fecha": "12/05/2022",
+    "Negativos": 5281,
+    "Confirmados": 993,
+    "Defunciones": 1
+  },
+  {
+    "Fecha": "13/05/2022",
+    "Negativos": 4900,
+    "Confirmados": 973,
+    "Defunciones": 2
+  },
+  {
+    "Fecha": "14/05/2022",
+    "Negativos": 2437,
+    "Confirmados": 393,
+    "Defunciones": 7
+  },
+  {
+    "Fecha": "15/05/2022",
+    "Negativos": 2299,
+    "Confirmados": 329,
+    "Defunciones": 6
+  },
+  {
+    "Fecha": "16/05/2022",
+    "Negativos": 6063,
+    "Confirmados": 1393,
+    "Defunciones": 6
+  },
+  {
+    "Fecha": "17/05/2022",
+    "Negativos": 6134,
+    "Confirmados": 1297,
+    "Defunciones": 5
+  },
+  {
+    "Fecha": "18/05/2022",
+    "Negativos": 6016,
+    "Confirmados": 1388,
+    "Defunciones": 2
+  },
+  {
+    "Fecha": "19/05/2022",
+    "Negativos": 5971,
+    "Confirmados": 1416,
+    "Defunciones": 5
+  },
+  {
+    "Fecha": "20/05/2022",
+    "Negativos": 5531,
+    "Confirmados": 1360,
+    "Defunciones": 7
+  },
+  {
+    "Fecha": "21/05/2022",
+    "Negativos": 2568,
+    "Confirmados": 585,
+    "Defunciones": 4
+  },
+  {
+    "Fecha": "22/05/2022",
+    "Negativos": 2431,
+    "Confirmados": 550,
+    "Defunciones": 7
+  },
+  {
+    "Fecha": "23/05/2022",
+    "Negativos": 6924,
+    "Confirmados": 2253,
+    "Defunciones": 6
+  },
+  {
+    "Fecha": "24/05/2022",
+    "Negativos": 6681,
+    "Confirmados": 2047,
+    "Defunciones": 4
+  },
+  {
+    "Fecha": "25/05/2022",
+    "Negativos": 6512,
+    "Confirmados": 2275,
+    "Defunciones": 8
+  },
+  {
+    "Fecha": "26/05/2022",
+    "Negativos": 6283,
+    "Confirmados": 2155,
+    "Defunciones": 3
+  },
+  {
+    "Fecha": "27/05/2022",
+    "Negativos": 6004,
+    "Confirmados": 2138,
+    "Defunciones": 5
+  },
+  {
+    "Fecha": "28/05/2022",
+    "Negativos": 3001,
+    "Confirmados": 920,
+    "Defunciones": 4
+  },
+  {
+    "Fecha": "29/05/2022",
+    "Negativos": 2724,
+    "Confirmados": 867,
+    "Defunciones": 3
+  },
+  {
+    "Fecha": "30/05/2022",
+    "Negativos": 8057,
+    "Confirmados": 3397,
+    "Defunciones": 6
+  },
+  {
+    "Fecha": "31/05/2022",
+    "Negativos": 7455,
+    "Confirmados": 3423,
+    "Defunciones": 7
+  },
+  {
+    "Fecha": "01/06/2022",
+    "Negativos": 7747,
+    "Confirmados": 3620,
+    "Defunciones": 3
+  },
+  {
+    "Fecha": "02/06/2022",
+    "Negativos": 7273,
+    "Confirmados": 3440,
+    "Defunciones": 4
+  },
+  {
+    "Fecha": "03/06/2022",
+    "Negativos": 7172,
+    "Confirmados": 3596,
+    "Defunciones": 7
+  },
+  {
+    "Fecha": "04/06/2022",
+    "Negativos": 3653,
+    "Confirmados": 1551,
+    "Defunciones": 5
+  },
+  {
+    "Fecha": "05/06/2022",
+    "Negativos": 3000,
+    "Confirmados": 1348,
+    "Defunciones": 5
+  },
+  {
+    "Fecha": "06/06/2022",
+    "Negativos": 9439,
+    "Confirmados": 6128,
+    "Defunciones": 5
+  },
+  {
+    "Fecha": "07/06/2022",
+    "Negativos": 9189,
+    "Confirmados": 5733,
+    "Defunciones": 3
+  },
+  {
+    "Fecha": "08/06/2022",
+    "Negativos": 9514,
+    "Confirmados": 6575,
+    "Defunciones": 3
+  },
+  {
+    "Fecha": "09/06/2022",
+    "Negativos": 9127,
+    "Confirmados": 6276,
+    "Defunciones": 7
+  },
+  {
+    "Fecha": "10/06/2022",
+    "Negativos": 8923,
+    "Confirmados": 6321,
+    "Defunciones": 6
+  },
+  {
+    "Fecha": "11/06/2022",
+    "Negativos": 4245,
+    "Confirmados": 2565,
+    "Defunciones": 7
+  },
+  {
+    "Fecha": "12/06/2022",
+    "Negativos": 3186,
+    "Confirmados": 2196,
+    "Defunciones": 15
+  },
+  {
+    "Fecha": "13/06/2022",
+    "Negativos": 10458,
+    "Confirmados": 9853,
+    "Defunciones": 10
+  },
+  {
+    "Fecha": "14/06/2022",
+    "Negativos": 9889,
+    "Confirmados": 9344,
+    "Defunciones": 13
+  },
+  {
+    "Fecha": "15/06/2022",
+    "Negativos": 9884,
+    "Confirmados": 9990,
+    "Defunciones": 4
+  },
+  {
+    "Fecha": "16/06/2022",
+    "Negativos": 9900,
+    "Confirmados": 9763,
+    "Defunciones": 10
+  },
+  {
+    "Fecha": "17/06/2022",
+    "Negativos": 9957,
+    "Confirmados": 10332,
+    "Defunciones": 13
+  },
+  {
+    "Fecha": "18/06/2022",
+    "Negativos": 4299,
+    "Confirmados": 4268,
+    "Defunciones": 11
+  },
+  {
+    "Fecha": "19/06/2022",
+    "Negativos": 3047,
+    "Confirmados": 3610,
+    "Defunciones": 14
+  },
+  {
+    "Fecha": "20/06/2022",
+    "Negativos": 11815,
+    "Confirmados": 16675,
+    "Defunciones": 14
+  },
+  {
+    "Fecha": "21/06/2022",
+    "Negativos": 11700,
+    "Confirmados": 16506,
+    "Defunciones": 17
+  },
+  {
+    "Fecha": "22/06/2022",
+    "Negativos": 12229,
+    "Confirmados": 17800,
+    "Defunciones": 20
+  },
+  {
+    "Fecha": "23/06/2022",
+    "Negativos": 12411,
+    "Confirmados": 18191,
+    "Defunciones": 17
+  },
+  {
+    "Fecha": "24/06/2022",
+    "Negativos": 12766,
+    "Confirmados": 18773,
+    "Defunciones": 17
+  },
+  {
+    "Fecha": "25/06/2022",
+    "Negativos": 5445,
+    "Confirmados": 7725,
+    "Defunciones": 18
+  },
+  {
+    "Fecha": "26/06/2022",
+    "Negativos": 4509,
+    "Confirmados": 7090,
+    "Defunciones": 30
+  },
+  {
+    "Fecha": "27/06/2022",
+    "Negativos": 14841,
+    "Confirmados": 27672,
+    "Defunciones": 27
+  },
+  {
+    "Fecha": "28/06/2022",
+    "Negativos": 14514,
+    "Confirmados": 26531,
+    "Defunciones": 21
+  },
+  {
+    "Fecha": "29/06/2022",
+    "Negativos": 13918,
+    "Confirmados": 27222,
+    "Defunciones": 34
+  },
+  {
+    "Fecha": "30/06/2022",
+    "Negativos": 14494,
+    "Confirmados": 27473,
+    "Defunciones": 25
+  },
+  {
+    "Fecha": "01/07/2022",
+    "Negativos": 14102,
+    "Confirmados": 26791,
+    "Defunciones": 26
+  },
+  {
+    "Fecha": "02/07/2022",
+    "Negativos": 5969,
+    "Confirmados": 10928,
+    "Defunciones": 34
+  },
+  {
+    "Fecha": "03/07/2022",
+    "Negativos": 4539,
+    "Confirmados": 9485,
+    "Defunciones": 32
+  },
+  {
+    "Fecha": "04/07/2022",
+    "Negativos": 15510,
+    "Confirmados": 37262,
+    "Defunciones": 48
+  },
+  {
+    "Fecha": "05/07/2022",
+    "Negativos": 16147,
+    "Confirmados": 35522,
+    "Defunciones": 38
+  },
+  {
+    "Fecha": "06/07/2022",
+    "Negativos": 15705,
+    "Confirmados": 35851,
+    "Defunciones": 46
+  },
+  {
+    "Fecha": "07/07/2022",
+    "Negativos": 17168,
+    "Confirmados": 35062,
+    "Defunciones": 48
+  },
+  {
+    "Fecha": "08/07/2022",
+    "Negativos": 16360,
+    "Confirmados": 32837,
+    "Defunciones": 42
+  },
+  {
+    "Fecha": "09/07/2022",
+    "Negativos": 6898,
+    "Confirmados": 12946,
+    "Defunciones": 53
+  },
+  {
+    "Fecha": "10/07/2022",
+    "Negativos": 5085,
+    "Confirmados": 11424,
+    "Defunciones": 71
+  },
+  {
+    "Fecha": "11/07/2022",
+    "Negativos": 17955,
+    "Confirmados": 43780,
+    "Defunciones": 79
+  },
+  {
+    "Fecha": "12/07/2022",
+    "Negativos": 17324,
+    "Confirmados": 39018,
+    "Defunciones": 66
+  },
+  {
+    "Fecha": "13/07/2022",
+    "Negativos": 16305,
+    "Confirmados": 36871,
+    "Defunciones": 88
+  },
+  {
+    "Fecha": "14/07/2022",
+    "Negativos": 15596,
+    "Confirmados": 34440,
+    "Defunciones": 84
+  },
+  {
+    "Fecha": "15/07/2022",
+    "Negativos": 15287,
+    "Confirmados": 30986,
+    "Defunciones": 68
+  },
+  {
+    "Fecha": "16/07/2022",
+    "Negativos": 6127,
+    "Confirmados": 12029,
+    "Defunciones": 79
+  },
+  {
+    "Fecha": "17/07/2022",
+    "Negativos": 4364,
+    "Confirmados": 9819,
+    "Defunciones": 76
+  },
+  {
+    "Fecha": "18/07/2022",
+    "Negativos": 16495,
+    "Confirmados": 37650,
+    "Defunciones": 82
+  },
+  {
+    "Fecha": "19/07/2022",
+    "Negativos": 14855,
+    "Confirmados": 31996,
+    "Defunciones": 73
+  },
+  {
+    "Fecha": "20/07/2022",
+    "Negativos": 14120,
+    "Confirmados": 30784,
+    "Defunciones": 96
+  },
+  {
+    "Fecha": "21/07/2022",
+    "Negativos": 13346,
+    "Confirmados": 26865,
+    "Defunciones": 80
+  },
+  {
+    "Fecha": "22/07/2022",
+    "Negativos": 12494,
+    "Confirmados": 23788,
+    "Defunciones": 79
+  },
+  {
+    "Fecha": "23/07/2022",
+    "Negativos": 5219,
+    "Confirmados": 8961,
+    "Defunciones": 68
+  },
+  {
+    "Fecha": "24/07/2022",
+    "Negativos": 3772,
+    "Confirmados": 6915,
+    "Defunciones": 70
+  },
+  {
+    "Fecha": "25/07/2022",
+    "Negativos": 13231,
+    "Confirmados": 26763,
+    "Defunciones": 87
+  },
+  {
+    "Fecha": "26/07/2022",
+    "Negativos": 11148,
+    "Confirmados": 21589,
+    "Defunciones": 92
+  },
+  {
+    "Fecha": "27/07/2022",
+    "Negativos": 10574,
+    "Confirmados": 19501,
+    "Defunciones": 89
+  },
+  {
+    "Fecha": "28/07/2022",
+    "Negativos": 9677,
+    "Confirmados": 16550,
+    "Defunciones": 76
+  },
+  {
+    "Fecha": "29/07/2022",
+    "Negativos": 9039,
+    "Confirmados": 13961,
+    "Defunciones": 91
+  },
+  {
+    "Fecha": "30/07/2022",
+    "Negativos": 3790,
+    "Confirmados": 5261,
+    "Defunciones": 78
+  },
+  {
+    "Fecha": "31/07/2022",
+    "Negativos": 3120,
+    "Confirmados": 4470,
+    "Defunciones": 73
+  },
+  {
+    "Fecha": "01/08/2022",
+    "Negativos": 10091,
+    "Confirmados": 17416,
+    "Defunciones": 73
+  },
+  {
+    "Fecha": "02/08/2022",
+    "Negativos": 8713,
+    "Confirmados": 13421,
+    "Defunciones": 80
+  },
+  {
+    "Fecha": "03/08/2022",
+    "Negativos": 8407,
+    "Confirmados": 12499,
+    "Defunciones": 74
+  },
+  {
+    "Fecha": "04/08/2022",
+    "Negativos": 8094,
+    "Confirmados": 10988,
+    "Defunciones": 72
+  },
+  {
+    "Fecha": "05/08/2022",
+    "Negativos": 7451,
+    "Confirmados": 9618,
+    "Defunciones": 70
+  },
+  {
+    "Fecha": "06/08/2022",
+    "Negativos": 3303,
+    "Confirmados": 3493,
+    "Defunciones": 65
+  },
+  {
+    "Fecha": "07/08/2022",
+    "Negativos": 2766,
+    "Confirmados": 2991,
+    "Defunciones": 40
+  },
+  {
+    "Fecha": "08/08/2022",
+    "Negativos": 8874,
+    "Confirmados": 11997,
+    "Defunciones": 57
+  },
+  {
+    "Fecha": "09/08/2022",
+    "Negativos": 7248,
+    "Confirmados": 8971,
+    "Defunciones": 49
+  },
+  {
+    "Fecha": "10/08/2022",
+    "Negativos": 6806,
+    "Confirmados": 8105,
+    "Defunciones": 47
+  },
+  {
+    "Fecha": "11/08/2022",
+    "Negativos": 6493,
+    "Confirmados": 6852,
+    "Defunciones": 42
+  },
+  {
+    "Fecha": "12/08/2022",
+    "Negativos": 6022,
+    "Confirmados": 5884,
+    "Defunciones": 44
+  },
+  {
+    "Fecha": "13/08/2022",
+    "Negativos": 2805,
+    "Confirmados": 2041,
+    "Defunciones": 30
+  },
+  {
+    "Fecha": "14/08/2022",
+    "Negativos": 2334,
+    "Confirmados": 1748,
+    "Defunciones": 37
+  },
+  {
+    "Fecha": "15/08/2022",
+    "Negativos": 6710,
+    "Confirmados": 7199,
+    "Defunciones": 29
+  },
+  {
+    "Fecha": "16/08/2022",
+    "Negativos": 5885,
+    "Confirmados": 5177,
+    "Defunciones": 38
+  },
+  {
+    "Fecha": "17/08/2022",
+    "Negativos": 5751,
+    "Confirmados": 4646,
+    "Defunciones": 31
+  },
+  {
+    "Fecha": "18/08/2022",
+    "Negativos": 5260,
+    "Confirmados": 4041,
+    "Defunciones": 25
+  },
+  {
+    "Fecha": "19/08/2022",
+    "Negativos": 4751,
+    "Confirmados": 3555,
+    "Defunciones": 21
+  },
+  {
+    "Fecha": "20/08/2022",
+    "Negativos": 2231,
+    "Confirmados": 1252,
+    "Defunciones": 29
+  },
+  {
+    "Fecha": "21/08/2022",
+    "Negativos": 1973,
+    "Confirmados": 1099,
+    "Defunciones": 20
+  },
+  {
+    "Fecha": "22/08/2022",
+    "Negativos": 6047,
+    "Confirmados": 4509,
+    "Defunciones": 19
+  },
+  {
+    "Fecha": "23/08/2022",
+    "Negativos": 4707,
+    "Confirmados": 3000,
+    "Defunciones": 20
+  },
+  {
+    "Fecha": "24/08/2022",
+    "Negativos": 2261,
+    "Confirmados": 1453,
+    "Defunciones": 9
+  },
+  {
+    "Fecha": "25/08/2022",
+    "Negativos": 0,
+    "Confirmados": 1,
+    "Defunciones": 0
+  }
+]
